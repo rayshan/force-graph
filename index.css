@@ -1,0 +1,46 @@
+:root {
+    font-size: 10px;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: 'liga';
+    margin: 0;
+    user-select: none;
+}
+
+#graph {
+    border: 1px solid lightgray;
+    width: 100vw;
+    height: 100vh;
+}
+
+text {
+    cursor: default;
+}
+
+.links line {
+    stroke: black;
+    stroke-opacity: 0.1;
+}
+
+.nodes circle {
+    fill: #2196F3;
+    stroke: #FFF;
+    stroke-width: 2;
+}
+
+.centroid circle {
+    fill: #FF9800;
+    stroke: #FFF;
+    stroke-width: 2;
+}
+
+.centroid text {
+    font-weight: bold;
+}

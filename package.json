@@ -1,0 +1,11 @@
+{
+  "name": "force-graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --config bs-config.js"
+  },
+  "author": "Ray Shan"
+}
