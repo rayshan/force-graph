@@ -134,17 +134,15 @@ class Graph {
      */
     static polygonVertexCoordinatesFrom(x, y, radius, sides) {
         const coordinates = [];
-
-        /* 1 SIDE CASE */
-        if (sides == 1)
-            return [[x, y]];
-
-        /* > 1 SIDE CASEs */
-        for (let i = 0; i < sides; i++) {
-            coordinates.push({
-                x: x + (Math.sin(2 * Math.PI * i / sides) * radius),
-                y: y - (Math.cos(2 * Math.PI * i / sides) * radius),
-            });
+        if (sides === 1) {
+            coordinates.push({x, y});
+        } else {
+            for (let i = 0; i < sides; i++) {
+                coordinates.push({
+                    x: x + (Math.sin(2 * Math.PI * i / sides) * radius),
+                    y: y - (Math.cos(2 * Math.PI * i / sides) * radius),
+                });
+            }
         }
         return coordinates;
     }
@@ -157,15 +155,12 @@ class Graph {
             // .strength(.1)
             .distance(linkDistance)
             .iterations(10)
-        // .distance(function (link) {
-        //     return (link.similarity - edgeSimilarityThreshold) * 100000;
-        // });
 
         const charge = d3.forceManyBody()
             .strength(-300)
             // .theta(0.1)
-        // .distanceMin(100)
-        // .distanceMax(100)
+            // .distanceMin(100)
+            // .distanceMax(100)
 
         const forceX = d3.forceX(function (d) {
             return (self.primaryConcepts[d.primaryConceptCid] && !d.isCentroid) ?
@@ -177,10 +172,10 @@ class Graph {
         });
 
         this.simulation = d3.forceSimulation()
-        // .force("center", d3.forceCenter(width / 2, height / 2))
+            // .force("center", d3.forceCenter(width / 2, height / 2))
             .force("link", forceLink)
             .force("charge", charge)
-            .velocityDecay(.1)
+            // .velocityDecay(.1)
             // .alpha(1)
             // .alphaDecay(.1)
             .force("collide", d3.forceCollide(10))
@@ -305,21 +300,19 @@ document.getElementById("3d-toggle")
         let cloneCount = 1;
         const clones = document.getElementsByClassName("graph-clone");
         function clone() {
+            const graph2 = graphElement.cloneNode(true);
+            graph2.removeAttribute("id");
+            graph2.classList.add("graph-clone");
+            graph2.style.opacity = 0;
+            graphElement.parentNode.appendChild(graph2);
             setTimeout(function () {
-                const graph2 = graphElement.cloneNode(true);
-                graph2.removeAttribute("id");
-                graph2.classList.add("graph-clone");
-                graph2.style.opacity = 0;
-                graphElement.parentNode.appendChild(graph2);
-                setTimeout(function () {
-                    graph2.style.transform = `rotateX(45deg) scale(0.5) translateZ(-${100 * cloneCount}px)`;
-                    graph2.style.opacity = 1;
-                    cloneCount++;
-                    if (cloneCount < 5) {
-                        clone();
-                    }
-                }, 50);
-            }, 100 - cloneCount * 15);
+                graph2.style.transform = `rotateX(45deg) scale(0.5) translateZ(-${100 * cloneCount}px)`;
+                graph2.style.opacity = 1;
+                cloneCount++;
+                if (cloneCount < 5) {
+                    clone();
+                }
+            }, 50);
         }
         if (!clones.length) {
             clone();
