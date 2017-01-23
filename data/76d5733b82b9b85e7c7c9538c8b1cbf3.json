@@ -1,0 +1,1016 @@
+{
+    "data": {
+        "nodes": [
+            {
+                "cId": "ee29687168fb4fd84a3acc654a9db5d9",
+                "title": "Internet Explorer 8",
+                "sense": "computers_and_internet",
+                "_weight": 73,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.7172115038839668,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.2827884961160332,
+                        "name": "Internet"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 5,
+                        "text": "Windows Internet Explorer 8 (IE8) is a web browser developed by Microsoft in the Internet Explorer browser series, released on March 19, 2009. It is the successor to Internet Explorer 7, released in 2006, and is the default browser for Windows 7 and Windows Server 2008 R2 operating systems.Internet Explorer 8 is the first version of IE to pass the Acid2 test, and the last of the major browsers to do so, although it scores 24/100 on the Acid3 Test.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Internet Explorer 8",
+                        "year": 2016,
+                        "title": "Internet Explorer 8",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "119c88466e08fedc096efd3ff1d9550b",
+                "title": "Internet Explorer versions",
+                "sense": "computers_and_internet",
+                "_weight": 19,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.5265540842416393,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.19925042375383537,
+                        "name": "Internet"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_1",
+                        "score": 0.11482063713130022,
+                        "name": "Machine Learning"
+                    },
+                    {
+                        "subtopic": "16",
+                        "score": 0.08736878893865364,
+                        "name": "Health"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_0",
+                        "score": 0.07200606593457153,
+                        "name": "Information Technology"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 1,
+                        "text": "Internet Explorer (formerly Microsoft Internet Explorer and Windows Internet Explorer, commonly abbreviated IE or MSIE) is a series of graphical web browsers developed by Microsoft and included as part of the Microsoft Windows line of operating systems, starting in 1995.The first version of Internet Explorer, (at that time named Microsoft Internet Explorer, later referred to as Internet Explorer 1) made its debut on 16 August 1995.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Internet Explorer versions",
+                        "year": 2016,
+                        "title": "Internet Explorer versions",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "82564006175b94b55852ebeb8e22986c",
+                "title": "Internet Explorer 5",
+                "sense": "computers_and_internet",
+                "_weight": 29,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.48242126078918973,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.22197461679209507,
+                        "name": "Internet"
+                    },
+                    {
+                        "subtopic": "6",
+                        "score": 0.12436717466115567,
+                        "name": "Engineering"
+                    },
+                    {
+                        "subtopic": "2",
+                        "score": 0.1034824054583798,
+                        "name": "Biomedicine"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_0",
+                        "score": 0.06775454229917978,
+                        "name": "Information Technology"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 4,
+                        "text": "Microsoft Internet Explorer 5 (IE5) is a discontinued graphical web browser and one of the main participants of the first browser war. Its distribution methods and Windows integration were involved in United States v. Microsoft. It is included with Windows 98 SE and Windows ME and it is the last version of Internet Explorer for Windows 3.1x, Windows NT 3.x and Windows 95.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Internet Explorer 5",
+                        "year": 2016,
+                        "title": "Internet Explorer 5",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "1f4fd1ba31d2398663c4cffa5887c449",
+                "title": "Trident (layout engine)",
+                "sense": "computers_and_internet",
+                "_weight": 121,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.5209945984811571,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.2167825453867587,
+                        "name": "Internet"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_1",
+                        "score": 0.13212732838484934,
+                        "name": "Machine Learning"
+                    },
+                    {
+                        "subtopic": "6",
+                        "score": 0.1300955277472349,
+                        "name": "Engineering"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 10,
+                        "text": "Trident (also known as MSHTML) is a proprietary layout engine for the Microsoft Windows version of Internet Explorer, developed by Microsoft.It was first introduced with the release of Internet Explorer version 4.0 in October 1997; it has been steadily upgraded and remains in use today. For versions 7 and 8 of Internet Explorer, Microsoft made significant changes to the Trident layout engine to improve compliance with web standards and add support for new technologies.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Trident (layout engine)",
+                        "year": 2015,
+                        "title": "Trident (layout engine)",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "title": "Browser wars",
+                "sense": "computers_and_internet",
+                "_weight": 30,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.56967398336826,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.23594578909708697,
+                        "name": "Internet"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_1",
+                        "score": 0.11880013957904063,
+                        "name": "Machine Learning"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.0755800879556124,
+                        "name": "Business & Economy"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 3,
+                        "text": "A browser war is competition for dominance in the usage share of web browsers. The first browser war was Microsoft's Internet Explorer against Netscape's Navigator during the late 1990s.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Browser wars",
+                        "year": 2016,
+                        "title": "Browser wars",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "77cb0ca5d9b47efe96479a95cbc2ad0f",
+                "title": "Internet Explorer 10",
+                "sense": "computers_and_internet",
+                "_weight": 35,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.5309799424401604,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.17007994616763455,
+                        "name": "Internet"
+                    },
+                    {
+                        "subtopic": "2",
+                        "score": 0.1634858906908244,
+                        "name": "Biomedicine"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_4",
+                        "score": 0.13545422070138063,
+                        "name": "Networking"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 8,
+                        "text": "Internet Explorer 10 (IE10) is a version of the Internet Explorer web browser released by Microsoft in 2012, and is the default browser in Windows 8.  IE10 expands on Internet Explorer 9 functionality with regard to CSS3 support, hardware acceleration, and HTML5 support.On 12 April 2011, Microsoft released the first \"IE10 Platform Preview\", which runs only on Windows 7 and later.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Internet Explorer 10",
+                        "year": 2016,
+                        "title": "Internet Explorer 10",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "b4ee6522335b033249255b4cc1d57299",
+                "title": "Firefox",
+                "sense": "computers_and_internet",
+                "_weight": 373,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.6214189334846681,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.21026557157657144,
+                        "name": "Internet"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_1",
+                        "score": 0.16831549493876047,
+                        "name": "Machine Learning"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 7,
+                        "text": "Mozilla Firefox (known simply as Firefox) is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. Firefox is available for Windows, OS X and Linux operating systems, with its mobile versions available for Android and Firefox OS.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Firefox",
+                        "year": 2016,
+                        "title": "Firefox",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "9df82ce454660e2e95801528c257a56a",
+                "title": "Internet Explorer 9",
+                "sense": "computers_and_internet",
+                "_weight": 58,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.5342160040575707,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.16924806546019275,
+                        "name": "Internet"
+                    },
+                    {
+                        "subtopic": "6",
+                        "score": 0.10851363445582478,
+                        "name": "Engineering"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_1",
+                        "score": 0.10160947450586032,
+                        "name": "Machine Learning"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_0",
+                        "score": 0.08641282152055133,
+                        "name": "Information Technology"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 2,
+                        "text": "Windows Internet Explorer 9 (IE9) is a version of the Internet Explorer web browser from Microsoft. It was released to the public on March 14, 2011. Microsoft has released Internet Explorer 9 as a major out-of-band version that is not tied to the release schedule of any particular version of Windows, unlike previous versions.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Internet Explorer 9",
+                        "year": 2016,
+                        "title": "Internet Explorer 9",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "title": "Internet Explorer",
+                "sense": "computers_and_internet",
+                "_weight": 327,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.5780450236084234,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.2530460264675814,
+                        "name": "Internet"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_4",
+                        "score": 0.09161299523644424,
+                        "name": "Networking"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_1",
+                        "score": 0.0772959546875509,
+                        "name": "Machine Learning"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 0,
+                        "text": "Internet Explorer (formerly Microsoft Internet Explorer and Windows Internet Explorer, commonly abbreviated IE or MSIE) is a series of graphical web browsers developed by Microsoft and included as part of the Microsoft Windows line of operating systems, starting in 1995. It was first released as part of the add-on package Plus! for Windows 95 that year.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Internet Explorer",
+                        "year": 2016,
+                        "title": "Internet Explorer",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "7dc44c44b7a030798f3e511dc741ab94",
+                "title": "Windows Vista",
+                "sense": "computers_and_internet",
+                "_weight": 584,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.5582011254665367,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.22089543838430883,
+                        "name": "Internet"
+                    },
+                    {
+                        "subtopic": "16",
+                        "score": 0.11703420191255287,
+                        "name": "Health"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_1",
+                        "score": 0.10386923423660162,
+                        "name": "Machine Learning"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 6,
+                        "text": "Windows Vista (codenamed Longhorn) is an operating system by Microsoft for use on personal computers, including home and business desktops, laptops, tablet PCs and media center PCs. Development was completed on 8 November 2006, and over the following three months, it was released in stages to computer hardware and software manufacturers, business customers and retail channels.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Windows Vista",
+                        "year": 2016,
+                        "title": "Windows Vista",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "786070c3add9ba6b04e8452271bb4478",
+                "title": "Internet Explorer Mobile",
+                "sense": "computers_and_internet",
+                "_weight": 21,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.6971127744812734,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.30288722551872654,
+                        "name": "Internet"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 9,
+                        "text": "Internet Explorer Mobile (formerly named Pocket Internet Explorer; commonly abbreviated to IE Mobile) is a mobile browser developed by Microsoft, based on versions of the Trident layout engine. IE Mobile comes loaded by default with Windows Phone and Windows CE. Current versions of Internet Explorer Mobile (since Windows Phone 8) are based on the desktop version of Internet Explorer.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Internet Explorer Mobile",
+                        "year": 2015,
+                        "title": "Internet Explorer Mobile",
+                        "label": "Source"
+                    }
+                ]
+            }
+        ],
+        "edges": [
+            {
+                "source": "7dc44c44b7a030798f3e511dc741ab94",
+                "target": "1f36e29b80637f4d7fe200d6c8833d0d",
+                "similarity": 0.9993670753968524
+            },
+            {
+                "source": "7dc44c44b7a030798f3e511dc741ab94",
+                "target": "e65f536e3cddbf4051e3e6615c272b9b",
+                "similarity": 0.9992642134179689
+            },
+            {
+                "source": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "target": "119c88466e08fedc096efd3ff1d9550b",
+                "similarity": 0.9989342433437134
+            },
+            {
+                "source": "119c88466e08fedc096efd3ff1d9550b",
+                "target": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "similarity": 0.9989342433437134
+            },
+            {
+                "source": "7dc44c44b7a030798f3e511dc741ab94",
+                "target": "afe4e3af8786362c8c8920849abd4a88",
+                "similarity": 0.9989109508498857
+            },
+            {
+                "source": "7dc44c44b7a030798f3e511dc741ab94",
+                "target": "02f059c29a38303bd1fe84d8167e2f2c",
+                "similarity": 0.9988885360482532
+            },
+            {
+                "source": "7dc44c44b7a030798f3e511dc741ab94",
+                "target": "94cada20ad68e1ffe3678826da4a09dc",
+                "similarity": 0.9988614499506714
+            },
+            {
+                "source": "b4ee6522335b033249255b4cc1d57299",
+                "target": "f8ce4015e1958fc68f6983b4e094cd62",
+                "similarity": 0.9988281238780121
+            },
+            {
+                "source": "7dc44c44b7a030798f3e511dc741ab94",
+                "target": "d91cfd8ca6c632096da9c0d76afef310",
+                "similarity": 0.9987932308687257
+            },
+            {
+                "source": "9df82ce454660e2e95801528c257a56a",
+                "target": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "similarity": 0.9987574933199872
+            },
+            {
+                "source": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "target": "9df82ce454660e2e95801528c257a56a",
+                "similarity": 0.9987574933199872
+            },
+            {
+                "source": "7dc44c44b7a030798f3e511dc741ab94",
+                "target": "f6a28970a521e035e5e254c78ec61c10",
+                "similarity": 0.9987451535151624
+            },
+            {
+                "source": "119c88466e08fedc096efd3ff1d9550b",
+                "target": "25b4fcd9cd9266eae5650b17f478a1a8",
+                "similarity": 0.9987012468164941
+            },
+            {
+                "source": "119c88466e08fedc096efd3ff1d9550b",
+                "target": "95a5f31ef93431e61b95f29eff778977",
+                "similarity": 0.9986276078928676
+            },
+            {
+                "source": "7dc44c44b7a030798f3e511dc741ab94",
+                "target": "76f20bccfe3512339ad2cea01fc1c780",
+                "similarity": 0.9986071245274659
+            },
+            {
+                "source": "82564006175b94b55852ebeb8e22986c",
+                "target": "119c88466e08fedc096efd3ff1d9550b",
+                "similarity": 0.9985586929451725
+            },
+            {
+                "source": "119c88466e08fedc096efd3ff1d9550b",
+                "target": "82564006175b94b55852ebeb8e22986c",
+                "similarity": 0.9985586929451725
+            },
+            {
+                "source": "7dc44c44b7a030798f3e511dc741ab94",
+                "target": "5124059cdbcb44dad907fe8d1601d759",
+                "similarity": 0.9985179964825082
+            },
+            {
+                "source": "7dc44c44b7a030798f3e511dc741ab94",
+                "target": "345af693f9b6bdaf92408df9fd9a9450",
+                "similarity": 0.9984265207532036
+            },
+            {
+                "source": "119c88466e08fedc096efd3ff1d9550b",
+                "target": "6356564d951bef40c89ce09d79b71a0c",
+                "similarity": 0.9983757514750067
+            },
+            {
+                "source": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "target": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "similarity": 0.9983501431188682
+            },
+            {
+                "source": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "target": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "similarity": 0.9983501431188682
+            },
+            {
+                "source": "b4ee6522335b033249255b4cc1d57299",
+                "target": "f75cef1373a65cd009d710b07b7080f6",
+                "similarity": 0.9982405010064718
+            },
+            {
+                "source": "119c88466e08fedc096efd3ff1d9550b",
+                "target": "8fec65fa05d0390b41aa8d3274d7798a",
+                "similarity": 0.9982347706800835
+            },
+            {
+                "source": "82564006175b94b55852ebeb8e22986c",
+                "target": "e2f34417eb0cc51c274cc0a2c5b3dcbd",
+                "similarity": 0.9982215303360543
+            },
+            {
+                "source": "b4ee6522335b033249255b4cc1d57299",
+                "target": "f6bf9c3593354b28043e84f76fcab484",
+                "similarity": 0.998124950986256
+            },
+            {
+                "source": "b4ee6522335b033249255b4cc1d57299",
+                "target": "d83016dd56e9bf9199d175870ff56ee7",
+                "similarity": 0.9981217374646553
+            },
+            {
+                "source": "b4ee6522335b033249255b4cc1d57299",
+                "target": "9a8e89c804969ed3a4df1d4ef066bc11",
+                "similarity": 0.9981068734721491
+            },
+            {
+                "source": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "target": "82564006175b94b55852ebeb8e22986c",
+                "similarity": 0.9981023901870046
+            },
+            {
+                "source": "82564006175b94b55852ebeb8e22986c",
+                "target": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "similarity": 0.9981023901870046
+            },
+            {
+                "source": "119c88466e08fedc096efd3ff1d9550b",
+                "target": "e86d6956c2fad54938e3bc8f2087e0ec",
+                "similarity": 0.99807408214431
+            },
+            {
+                "source": "ee29687168fb4fd84a3acc654a9db5d9",
+                "target": "119c88466e08fedc096efd3ff1d9550b",
+                "similarity": 0.9980492702494114
+            },
+            {
+                "source": "119c88466e08fedc096efd3ff1d9550b",
+                "target": "ee29687168fb4fd84a3acc654a9db5d9",
+                "similarity": 0.9980492702494114
+            },
+            {
+                "source": "ee29687168fb4fd84a3acc654a9db5d9",
+                "target": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "similarity": 0.9980467370431021
+            },
+            {
+                "source": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "target": "ee29687168fb4fd84a3acc654a9db5d9",
+                "similarity": 0.9980467370431021
+            },
+            {
+                "source": "119c88466e08fedc096efd3ff1d9550b",
+                "target": "e2f34417eb0cc51c274cc0a2c5b3dcbd",
+                "similarity": 0.9980433182511141
+            },
+            {
+                "source": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "target": "b4ee6522335b033249255b4cc1d57299",
+                "similarity": 0.9980388742558951
+            },
+            {
+                "source": "b4ee6522335b033249255b4cc1d57299",
+                "target": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "similarity": 0.9980388742558951
+            },
+            {
+                "source": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "target": "7dc44c44b7a030798f3e511dc741ab94",
+                "similarity": 0.997894910762213
+            },
+            {
+                "source": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "target": "f75cef1373a65cd009d710b07b7080f6",
+                "similarity": 0.9978844472837043
+            },
+            {
+                "source": "119c88466e08fedc096efd3ff1d9550b",
+                "target": "f6a28970a521e035e5e254c78ec61c10",
+                "similarity": 0.9978199996714261
+            },
+            {
+                "source": "77cb0ca5d9b47efe96479a95cbc2ad0f",
+                "target": "119c88466e08fedc096efd3ff1d9550b",
+                "similarity": 0.9978159477890541
+            },
+            {
+                "source": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "target": "b4ee6522335b033249255b4cc1d57299",
+                "similarity": 0.9977715671949365
+            },
+            {
+                "source": "b4ee6522335b033249255b4cc1d57299",
+                "target": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "similarity": 0.9977715671949365
+            },
+            {
+                "source": "82564006175b94b55852ebeb8e22986c",
+                "target": "6356564d951bef40c89ce09d79b71a0c",
+                "similarity": 0.9977399154224504
+            },
+            {
+                "source": "77cb0ca5d9b47efe96479a95cbc2ad0f",
+                "target": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "similarity": 0.9977222648765598
+            },
+            {
+                "source": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "target": "77cb0ca5d9b47efe96479a95cbc2ad0f",
+                "similarity": 0.9977222648765598
+            },
+            {
+                "source": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "target": "c85303032e1c112cb4676460263bf4b7",
+                "similarity": 0.997708468082241
+            },
+            {
+                "source": "9df82ce454660e2e95801528c257a56a",
+                "target": "119c88466e08fedc096efd3ff1d9550b",
+                "similarity": 0.9976976071570237
+            },
+            {
+                "source": "1f4fd1ba31d2398663c4cffa5887c449",
+                "target": "b1e92d57587a859294a37a7deb256c52",
+                "similarity": 0.9976681295618508
+            },
+            {
+                "source": "786070c3add9ba6b04e8452271bb4478",
+                "target": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "similarity": 0.9976373668912331
+            },
+            {
+                "source": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "target": "786070c3add9ba6b04e8452271bb4478",
+                "similarity": 0.9976373668912331
+            },
+            {
+                "source": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "target": "a52772762c89523f62e4b5f9bebad5d8",
+                "similarity": 0.9976372239429667
+            },
+            {
+                "source": "ee29687168fb4fd84a3acc654a9db5d9",
+                "target": "95a5f31ef93431e61b95f29eff778977",
+                "similarity": 0.9975792856784447
+            },
+            {
+                "source": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "target": "1f4fd1ba31d2398663c4cffa5887c449",
+                "similarity": 0.9975784876397924
+            },
+            {
+                "source": "1f4fd1ba31d2398663c4cffa5887c449",
+                "target": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "similarity": 0.9975784876397924
+            },
+            {
+                "source": "b4ee6522335b033249255b4cc1d57299",
+                "target": "8e676f1894a0f6d94c9d031608d32dd1",
+                "similarity": 0.9975717531208819
+            },
+            {
+                "source": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "target": "ee29687168fb4fd84a3acc654a9db5d9",
+                "similarity": 0.9974750986791322
+            },
+            {
+                "source": "ee29687168fb4fd84a3acc654a9db5d9",
+                "target": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "similarity": 0.9974750986791322
+            },
+            {
+                "source": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "target": "abe77d2b2c2f70f0490b19cf61db3ed0",
+                "similarity": 0.9974655598316119
+            },
+            {
+                "source": "b4ee6522335b033249255b4cc1d57299",
+                "target": "7e04a1b0282b57a1e9b67ac098091488",
+                "similarity": 0.9973793801477558
+            },
+            {
+                "source": "9df82ce454660e2e95801528c257a56a",
+                "target": "7658abaf9301ecd8c21a95cd68f73994",
+                "similarity": 0.9973169145586247
+            },
+            {
+                "source": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "target": "25b4fcd9cd9266eae5650b17f478a1a8",
+                "similarity": 0.9973055135774018
+            },
+            {
+                "source": "b4ee6522335b033249255b4cc1d57299",
+                "target": "5cd38e52925a31ce8d58d7c43fa7e570",
+                "similarity": 0.9972948296595561
+            },
+            {
+                "source": "786070c3add9ba6b04e8452271bb4478",
+                "target": "119c88466e08fedc096efd3ff1d9550b",
+                "similarity": 0.9972948097963722
+            },
+            {
+                "source": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "target": "a947a17cbf884b73f803bc7ef5c6422f",
+                "similarity": 0.9972825415230112
+            },
+            {
+                "source": "9df82ce454660e2e95801528c257a56a",
+                "target": "ee29687168fb4fd84a3acc654a9db5d9",
+                "similarity": 0.9972303943454996
+            },
+            {
+                "source": "ee29687168fb4fd84a3acc654a9db5d9",
+                "target": "9df82ce454660e2e95801528c257a56a",
+                "similarity": 0.9972303943454996
+            },
+            {
+                "source": "9df82ce454660e2e95801528c257a56a",
+                "target": "b4ee6522335b033249255b4cc1d57299",
+                "similarity": 0.9972284740163382
+            },
+            {
+                "source": "9df82ce454660e2e95801528c257a56a",
+                "target": "f6bf9c3593354b28043e84f76fcab484",
+                "similarity": 0.9971723983732742
+            },
+            {
+                "source": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "target": "f6bf9c3593354b28043e84f76fcab484",
+                "similarity": 0.9971723983732742
+            },
+            {
+                "source": "9df82ce454660e2e95801528c257a56a",
+                "target": "77cb0ca5d9b47efe96479a95cbc2ad0f",
+                "similarity": 0.9971395790145945
+            },
+            {
+                "source": "77cb0ca5d9b47efe96479a95cbc2ad0f",
+                "target": "9df82ce454660e2e95801528c257a56a",
+                "similarity": 0.9971395790145945
+            },
+            {
+                "source": "82564006175b94b55852ebeb8e22986c",
+                "target": "f6a28970a521e035e5e254c78ec61c10",
+                "similarity": 0.9971154987932583
+            },
+            {
+                "source": "9df82ce454660e2e95801528c257a56a",
+                "target": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "similarity": 0.9970334470160169
+            },
+            {
+                "source": "ee29687168fb4fd84a3acc654a9db5d9",
+                "target": "d8347536c83b0d123d4fbad5b8e521b5",
+                "similarity": 0.996964739431943
+            },
+            {
+                "source": "ee29687168fb4fd84a3acc654a9db5d9",
+                "target": "7dc44c44b7a030798f3e511dc741ab94",
+                "similarity": 0.9969415776380569
+            },
+            {
+                "source": "ee29687168fb4fd84a3acc654a9db5d9",
+                "target": "25b4fcd9cd9266eae5650b17f478a1a8",
+                "similarity": 0.996915118474486
+            },
+            {
+                "source": "82564006175b94b55852ebeb8e22986c",
+                "target": "bdae4500dcdb3f86e38c3347c9fe418d",
+                "similarity": 0.9968313996204021
+            },
+            {
+                "source": "9df82ce454660e2e95801528c257a56a",
+                "target": "f8ce4015e1958fc68f6983b4e094cd62",
+                "similarity": 0.9968095780342133
+            },
+            {
+                "source": "9df82ce454660e2e95801528c257a56a",
+                "target": "bc20cb1fb33758f26e89a30c97c99c39",
+                "similarity": 0.996803023985957
+            },
+            {
+                "source": "786070c3add9ba6b04e8452271bb4478",
+                "target": "2865b6362b37ce63e9993a539cb860f7",
+                "similarity": 0.9967731854632692
+            },
+            {
+                "source": "1f4fd1ba31d2398663c4cffa5887c449",
+                "target": "119c88466e08fedc096efd3ff1d9550b",
+                "similarity": 0.9967642737632939
+            },
+            {
+                "source": "82564006175b94b55852ebeb8e22986c",
+                "target": "e86d6956c2fad54938e3bc8f2087e0ec",
+                "similarity": 0.9966579581550251
+            },
+            {
+                "source": "786070c3add9ba6b04e8452271bb4478",
+                "target": "ba808a93b5e57074c4ff12e0a8ed0b48",
+                "similarity": 0.996648643185105
+            },
+            {
+                "source": "ee29687168fb4fd84a3acc654a9db5d9",
+                "target": "e65f536e3cddbf4051e3e6615c272b9b",
+                "similarity": 0.9966371888489896
+            },
+            {
+                "source": "82564006175b94b55852ebeb8e22986c",
+                "target": "95a5f31ef93431e61b95f29eff778977",
+                "similarity": 0.9966164264439705
+            },
+            {
+                "source": "82564006175b94b55852ebeb8e22986c",
+                "target": "8fec65fa05d0390b41aa8d3274d7798a",
+                "similarity": 0.996549125164898
+            },
+            {
+                "source": "786070c3add9ba6b04e8452271bb4478",
+                "target": "6368ae9d86078ad0d504acb3bef774aa",
+                "similarity": 0.9965199807992635
+            },
+            {
+                "source": "786070c3add9ba6b04e8452271bb4478",
+                "target": "8fec65fa05d0390b41aa8d3274d7798a",
+                "similarity": 0.9965091645667205
+            },
+            {
+                "source": "786070c3add9ba6b04e8452271bb4478",
+                "target": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "similarity": 0.9964148926489002
+            },
+            {
+                "source": "1f4fd1ba31d2398663c4cffa5887c449",
+                "target": "f75cef1373a65cd009d710b07b7080f6",
+                "similarity": 0.9964011089711542
+            },
+            {
+                "source": "ee29687168fb4fd84a3acc654a9db5d9",
+                "target": "3ab70bc7c10fc026dadc0938f5020764",
+                "similarity": 0.9963604352715228
+            },
+            {
+                "source": "77cb0ca5d9b47efe96479a95cbc2ad0f",
+                "target": "6517856f8c3a3fda3ae28305a05d127f",
+                "similarity": 0.9961717806055921
+            },
+            {
+                "source": "82564006175b94b55852ebeb8e22986c",
+                "target": "25b4fcd9cd9266eae5650b17f478a1a8",
+                "similarity": 0.9961695320713813
+            },
+            {
+                "source": "1f4fd1ba31d2398663c4cffa5887c449",
+                "target": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "similarity": 0.9960808348486113
+            },
+            {
+                "source": "786070c3add9ba6b04e8452271bb4478",
+                "target": "570e9aeb40c857b1bb6253877d33fcb8",
+                "similarity": 0.9960310734756596
+            },
+            {
+                "source": "786070c3add9ba6b04e8452271bb4478",
+                "target": "c734c010accca9b8aaa3468f8c90856e",
+                "similarity": 0.996011866746309
+            },
+            {
+                "source": "77cb0ca5d9b47efe96479a95cbc2ad0f",
+                "target": "ee29687168fb4fd84a3acc654a9db5d9",
+                "similarity": 0.9959481473287699
+            },
+            {
+                "source": "1f4fd1ba31d2398663c4cffa5887c449",
+                "target": "9df82ce454660e2e95801528c257a56a",
+                "similarity": 0.9957976636153628
+            },
+            {
+                "source": "786070c3add9ba6b04e8452271bb4478",
+                "target": "f75cef1373a65cd009d710b07b7080f6",
+                "similarity": 0.995716598124548
+            },
+            {
+                "source": "1f4fd1ba31d2398663c4cffa5887c449",
+                "target": "ee29687168fb4fd84a3acc654a9db5d9",
+                "similarity": 0.9955582362206328
+            },
+            {
+                "source": "1f4fd1ba31d2398663c4cffa5887c449",
+                "target": "82564006175b94b55852ebeb8e22986c",
+                "similarity": 0.9953180296281082
+            },
+            {
+                "source": "77cb0ca5d9b47efe96479a95cbc2ad0f",
+                "target": "b4ee6522335b033249255b4cc1d57299",
+                "similarity": 0.9952272399924905
+            },
+            {
+                "source": "1f4fd1ba31d2398663c4cffa5887c449",
+                "target": "b4ee6522335b033249255b4cc1d57299",
+                "similarity": 0.9951333942871695
+            },
+            {
+                "source": "1f4fd1ba31d2398663c4cffa5887c449",
+                "target": "bc20cb1fb33758f26e89a30c97c99c39",
+                "similarity": 0.9949871692962191
+            },
+            {
+                "source": "77cb0ca5d9b47efe96479a95cbc2ad0f",
+                "target": "9a8e89c804969ed3a4df1d4ef066bc11",
+                "similarity": 0.9944377151036101
+            },
+            {
+                "source": "77cb0ca5d9b47efe96479a95cbc2ad0f",
+                "target": "f8ce4015e1958fc68f6983b4e094cd62",
+                "similarity": 0.9943777523444264
+            },
+            {
+                "source": "77cb0ca5d9b47efe96479a95cbc2ad0f",
+                "target": "786070c3add9ba6b04e8452271bb4478",
+                "similarity": 0.9941955528675045
+            },
+            {
+                "source": "77cb0ca5d9b47efe96479a95cbc2ad0f",
+                "target": "9713510f5b39019b30a64a40849baa1e",
+                "similarity": 0.9939547897280243
+            }
+        ],
+        "centroids": [
+            "76d5733b82b9b85e7c7c9538c8b1cbf3"
+        ]
+    },
+    "message": "OK",
+    "status": 200
+}

@@ -1,0 +1,1017 @@
+{
+    "data": {
+        "nodes": [
+            {
+                "cId": "49e43c72a73287140f0f953729063d65",
+                "title": "Mitchell Baker",
+                "sense": "business",
+                "_weight": 4,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.5000686396289727,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.26841233706105055,
+                        "name": "Internet"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.12337859325139484,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "subtopic": "8",
+                        "score": 0.1081404300585818,
+                        "name": "Education"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 3,
+                        "text": "Winifred Mitchell Baker, better known simply as Mitchell Baker, is the Executive Chairwoman of the Mozilla Foundation and CEO of Mozilla Corporation, a subsidiary of the Mozilla Foundation that coordinates development of the open source Mozilla Internet applications, including the Mozilla Firefox web browser and the Mozilla Thunderbird email client.Baker was trained as a lawyer.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Mitchell Baker",
+                        "year": 2016,
+                        "title": "Mitchell Baker",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "ebd33e6c30a99fe9a58d49b9b95957cb",
+                "title": "Mozilla Foundation",
+                "sense": "business",
+                "_weight": 58,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.587911219382508,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.2749415962602207,
+                        "name": "Internet"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_1",
+                        "score": 0.13714718435727127,
+                        "name": "Machine Learning"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 7,
+                        "text": "The Mozilla Foundation is a non-profit organization that exists to support and collectively lead the open source Mozilla project. Founded in July 2003, the organization sets the policies that govern development, operates key infrastructure and controls Mozilla trademarks and copyrights. It owns a taxable subsidiary: the Mozilla Corporation, which employs many Mozilla developers and coordinates releases of the Mozilla Firefox web browser and Mozilla Thunderbird email client.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Mozilla Foundation",
+                        "year": 2016,
+                        "title": "Mozilla Foundation",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "c343cd50ba0e64223225b8a54bd266d1",
+                "title": "Mozilla Corporation",
+                "sense": "computers_and_internet",
+                "_weight": 59,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.5244918676670869,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.28354443434316656,
+                        "name": "Internet"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.12475022973541466,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "subtopic": "14",
+                        "score": 0.06721346825433183,
+                        "name": "Life Sciences"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 1,
+                        "text": "The Mozilla Corporation (abbreviated MoCo) is a wholly owned subsidiary of the Mozilla Foundation that coordinates and integrates the development of Internet-related applications such as the Firefox and SeaMonkey web browsers and the Mozilla Thunderbird email client by a global community of open-source developers, some of whom are employed by the corporation itself. The corporation also distributes and promotes these products.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Mozilla Corporation",
+                        "year": 2016,
+                        "title": "Mozilla Corporation",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "c98269563aae1fc073b7fc0372efa1a1",
+                "title": "Netscape",
+                "sense": "computers_and_internet",
+                "_weight": 320,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.41714218903987954,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.26905933550301336,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.21652901489647514,
+                        "name": "Internet"
+                    },
+                    {
+                        "topic": "13",
+                        "subtopic": "13_4",
+                        "score": 0.097269460560632,
+                        "name": "Industries"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 9,
+                        "text": "Netscape Communications (formerly known as Netscape Communications Corporation and commonly known as Netscape) is an American computer services company, best known for Netscape Navigator, its web browser. When it was an independent company, its headquarters were in Mountain View, California.Netscape's web browser was once dominant in terms of usage share, but lost most of that share to Internet Explorer during the so-called first browser war.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Netscape",
+                        "year": 2016,
+                        "title": "Netscape",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "84fe5b49fd7a8f7a91416bddb0ff9c9f",
+                "title": "Asa Dotzler",
+                "sense": "government_and_politics",
+                "_weight": 2,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.48070903656143626,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "subtopic": "8",
+                        "score": 0.20407596389480884,
+                        "name": "Education"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.17145498817056254,
+                        "name": "Internet"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_1",
+                        "score": 0.14376001137319233,
+                        "name": "Machine Learning"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 5,
+                        "text": "Asa Dotzler (/ˈeɪsə ˈdɒtslər/; born June 5, 1974) is an American software developer best known for his work in development of the Firefox browser through its evolution from his volunteer work when Netscape released Mozilla as open source code and employment as community coordinator for several Mozilla projects to director of Mozilla's Firefox desktop.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Asa Dotzler",
+                        "year": 2014,
+                        "title": "Asa Dotzler",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "6d85b2d399967a027efc0d611a548da5",
+                "title": "ECMAScript",
+                "sense": "computers_and_internet",
+                "_weight": 183,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.707364076559145,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.29263592344085504,
+                        "name": "Internet"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 8,
+                        "text": "ECMAScript is a trademarked scripting language specification standardized by Ecma International in ECMA-262 and ISO/IEC 16262. Well-known implementations of the language, such as JavaScript, JScript and ActionScript are widely used for client-side scripting on the Web.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/ECMAScript",
+                        "year": 2016,
+                        "title": "ECMAScript",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "d83016dd56e9bf9199d175870ff56ee7",
+                "title": "Mozilla",
+                "sense": "computers_and_internet",
+                "_weight": 374,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.6377191291474099,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.3622808708525901,
+                        "name": "Internet"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 2,
+                        "text": "Mozilla is a free-software community, created in 1998 by members of Netscape. The Mozilla community uses, develops, spreads and supports Mozilla products, thereby promoting exclusively free software and open standards, with only minor exceptions.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Mozilla",
+                        "year": 2016,
+                        "title": "Mozilla",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "title": "The Book of Mozilla",
+                "sense": "computers_and_internet",
+                "_weight": 3,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.41445592050897256,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "subtopic": "15",
+                        "score": 0.23459861224302378,
+                        "name": "Humanities"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.21063297104682546,
+                        "name": "Internet"
+                    },
+                    {
+                        "topic": "15",
+                        "subtopic": "15_0",
+                        "score": 0.07048958425347102,
+                        "name": "Music and Film"
+                    },
+                    {
+                        "subtopic": "4",
+                        "score": 0.0698229119477072,
+                        "name": "Society"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 10,
+                        "text": "The Book of Mozilla is a computer Easter egg found in the Netscape and Mozilla series of web browsers.It is viewed by directing the browser to about:mozilla.There is no real book titled The Book of Mozilla. However, apparent quotations hidden in Netscape and Mozilla give this impression by revealing passages in the style of apocalyptic literature, such as the Book of Revelation in the Bible.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/The Book of Mozilla",
+                        "year": 2015,
+                        "title": "The Book of Mozilla",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "ee620923ff5fc510555dc37083a135ee",
+                "title": "JavaScript",
+                "sense": "computers_and_internet",
+                "_weight": 1439,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.6500742892523187,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.19960824650873707,
+                        "name": "Internet"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_1",
+                        "score": 0.15031746423894418,
+                        "name": "Machine Learning"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 4,
+                        "text": "JavaScript (/ˈdʒɑːvəˌskrɪpt/) is a high level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification. Alongside HTML and CSS, it is one of the three essential technologies of World Wide Web content production; the majority of websites employ it and it is supported by all modern web browsers without plug-ins.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/JavaScript",
+                        "year": 2016,
+                        "title": "JavaScript",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "dbac364f8380e97e441c2d96f35248b3",
+                "title": "Brendan Eich",
+                "sense": "computers_and_internet",
+                "_weight": 22,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.31266828099525074,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.29718815935752696,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "topic": "13",
+                        "subtopic": "13_0",
+                        "score": 0.1145047153370041,
+                        "name": "Economics"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_1",
+                        "score": 0.096169656197468,
+                        "name": "Machine Learning"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.06582887418054244,
+                        "name": "Internet"
+                    },
+                    {
+                        "subtopic": "8",
+                        "score": 0.05689567527867089,
+                        "name": "Education"
+                    },
+                    {
+                        "subtopic": "6",
+                        "score": 0.056744638653537016,
+                        "name": "Engineering"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 0,
+                        "text": "Brendan Eich (/ˈaɪk/; born 1961) is an American technologist and creator of the JavaScript programming language. He co-founded the Mozilla project, the Mozilla Foundation and the Mozilla Corporation, and served as the Mozilla Corporation's chief technical officer and briefly its chief executive officer.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Brendan Eich",
+                        "year": 2016,
+                        "title": "Brendan Eich",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "f65122e6f32c2bcabdd432788ea598df",
+                "title": "SpiderMonkey",
+                "sense": "computers_and_internet",
+                "_weight": 110,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.4844644348171954,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_1",
+                        "score": 0.15505177774435758,
+                        "name": "Machine Learning"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.12777567713135765,
+                        "name": "Internet"
+                    },
+                    {
+                        "subtopic": "12",
+                        "score": 0.12479064640304774,
+                        "name": "Mathematics"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.10791746390404179,
+                        "name": "Business & Economy"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 6,
+                        "text": "SpiderMonkey is the code name for the first-ever JavaScript engine, written by Brendan Eich at Netscape Communications, later released as open source and currently maintained by the Mozilla Foundation. SpiderMonkey provides JavaScript support for Mozilla Firefox and various embeddings such as the GNOME 3 desktop.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/SpiderMonkey (software)",
+                        "year": 2015,
+                        "title": "SpiderMonkey",
+                        "label": "Source"
+                    }
+                ]
+            }
+        ],
+        "edges": [
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "similarity": 0.9988795534180215
+            },
+            {
+                "source": "ee620923ff5fc510555dc37083a135ee",
+                "target": "6d85b2d399967a027efc0d611a548da5",
+                "similarity": 0.9983662871393878
+            },
+            {
+                "source": "6d85b2d399967a027efc0d611a548da5",
+                "target": "ee620923ff5fc510555dc37083a135ee",
+                "similarity": 0.9983662871393878
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "bd035c011b809d406e53083cb2d19cff",
+                "similarity": 0.9981392838973554
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "b4ee6522335b033249255b4cc1d57299",
+                "similarity": 0.9981217374646553
+            },
+            {
+                "source": "ee620923ff5fc510555dc37083a135ee",
+                "target": "5bbca93841ed36129bb5c2479d141ba8",
+                "similarity": 0.9977507517069207
+            },
+            {
+                "source": "6d85b2d399967a027efc0d611a548da5",
+                "target": "555cae256bc5fd6bbfd90e089cf41b99",
+                "similarity": 0.9975757637846081
+            },
+            {
+                "source": "f65122e6f32c2bcabdd432788ea598df",
+                "target": "6d85b2d399967a027efc0d611a548da5",
+                "similarity": 0.9973325045322646
+            },
+            {
+                "source": "6d85b2d399967a027efc0d611a548da5",
+                "target": "f65122e6f32c2bcabdd432788ea598df",
+                "similarity": 0.9973325045322646
+            },
+            {
+                "source": "6d85b2d399967a027efc0d611a548da5",
+                "target": "449bd7233f6a4cab9afe706cecfe36e0",
+                "similarity": 0.997320542430587
+            },
+            {
+                "source": "f65122e6f32c2bcabdd432788ea598df",
+                "target": "555cae256bc5fd6bbfd90e089cf41b99",
+                "similarity": 0.9972871658381817
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "d38fc79040c0fb95d810cd165e946094",
+                "similarity": 0.9972814714599482
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "121d4d3fbc18c44af212126b99d569af",
+                "similarity": 0.997271541400183
+            },
+            {
+                "source": "ee620923ff5fc510555dc37083a135ee",
+                "target": "2d0795b5970c4a2bd07f4b89cafbeffc",
+                "similarity": 0.9972067423596016
+            },
+            {
+                "source": "ee620923ff5fc510555dc37083a135ee",
+                "target": "031a4e76f0b39d0df073d934da5fc48d",
+                "similarity": 0.9971643303141597
+            },
+            {
+                "source": "f65122e6f32c2bcabdd432788ea598df",
+                "target": "ee620923ff5fc510555dc37083a135ee",
+                "similarity": 0.9971022816962211
+            },
+            {
+                "source": "ee620923ff5fc510555dc37083a135ee",
+                "target": "f65122e6f32c2bcabdd432788ea598df",
+                "similarity": 0.9971022816962211
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "8e676f1894a0f6d94c9d031608d32dd1",
+                "similarity": 0.9970786783875168
+            },
+            {
+                "source": "ee620923ff5fc510555dc37083a135ee",
+                "target": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "similarity": 0.9970694203055114
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "dc542c16ef6f1a9376de5fb6b26de495",
+                "similarity": 0.9970120054308025
+            },
+            {
+                "source": "ee620923ff5fc510555dc37083a135ee",
+                "target": "80f46bd96a19687121822afbebc78270",
+                "similarity": 0.997007681066762
+            },
+            {
+                "source": "ee620923ff5fc510555dc37083a135ee",
+                "target": "8cde47583faab62d7c7a53fb134ef281",
+                "similarity": 0.9969532500475755
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "7e04a1b0282b57a1e9b67ac098091488",
+                "similarity": 0.9969463107393981
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "7e04a1b0282b57a1e9b67ac098091488",
+                "similarity": 0.9969387460916871
+            },
+            {
+                "source": "ee620923ff5fc510555dc37083a135ee",
+                "target": "4b858c6673684a886667c50aa5dd6f14",
+                "similarity": 0.9969175637366657
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "8e676f1894a0f6d94c9d031608d32dd1",
+                "similarity": 0.9969002379995565
+            },
+            {
+                "source": "ee620923ff5fc510555dc37083a135ee",
+                "target": "31fcec5e82950c55a22f2f87ec6f784c",
+                "similarity": 0.996883331013536
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "similarity": 0.9968080071232758
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "c98269563aae1fc073b7fc0372efa1a1",
+                "similarity": 0.9967642283177971
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "d83016dd56e9bf9199d175870ff56ee7",
+                "similarity": 0.9967642283177971
+            },
+            {
+                "source": "f65122e6f32c2bcabdd432788ea598df",
+                "target": "f8ce4015e1958fc68f6983b4e094cd62",
+                "similarity": 0.9967379284879753
+            },
+            {
+                "source": "ebd33e6c30a99fe9a58d49b9b95957cb",
+                "target": "84fe5b49fd7a8f7a91416bddb0ff9c9f",
+                "similarity": 0.9967337693262949
+            },
+            {
+                "source": "84fe5b49fd7a8f7a91416bddb0ff9c9f",
+                "target": "ebd33e6c30a99fe9a58d49b9b95957cb",
+                "similarity": 0.9967337693262949
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "b3645a4d88f9378f60731ba4a10d6c63",
+                "similarity": 0.996665963571348
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "603ef67d2f2e497a4c31cb3c5a8f0b3a",
+                "similarity": 0.9966580359283173
+            },
+            {
+                "source": "dbac364f8380e97e441c2d96f35248b3",
+                "target": "c343cd50ba0e64223225b8a54bd266d1",
+                "similarity": 0.9964915342361321
+            },
+            {
+                "source": "c343cd50ba0e64223225b8a54bd266d1",
+                "target": "dbac364f8380e97e441c2d96f35248b3",
+                "similarity": 0.9964915342361321
+            },
+            {
+                "source": "ebd33e6c30a99fe9a58d49b9b95957cb",
+                "target": "c343cd50ba0e64223225b8a54bd266d1",
+                "similarity": 0.9964798663587905
+            },
+            {
+                "source": "c343cd50ba0e64223225b8a54bd266d1",
+                "target": "ebd33e6c30a99fe9a58d49b9b95957cb",
+                "similarity": 0.9964798663587905
+            },
+            {
+                "source": "6d85b2d399967a027efc0d611a548da5",
+                "target": "a456c5783ae4dc4f7023ecba50aaf1e3",
+                "similarity": 0.9964224509455533
+            },
+            {
+                "source": "c343cd50ba0e64223225b8a54bd266d1",
+                "target": "b4ee6522335b033249255b4cc1d57299",
+                "similarity": 0.9963054130309915
+            },
+            {
+                "source": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "target": "c98269563aae1fc073b7fc0372efa1a1",
+                "similarity": 0.9963034438774778
+            },
+            {
+                "source": "6d85b2d399967a027efc0d611a548da5",
+                "target": "5bbca93841ed36129bb5c2479d141ba8",
+                "similarity": 0.9961822361429059
+            },
+            {
+                "source": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "target": "b4ee6522335b033249255b4cc1d57299",
+                "similarity": 0.9961210738174545
+            },
+            {
+                "source": "84fe5b49fd7a8f7a91416bddb0ff9c9f",
+                "target": "49e43c72a73287140f0f953729063d65",
+                "similarity": 0.9960108988652985
+            },
+            {
+                "source": "49e43c72a73287140f0f953729063d65",
+                "target": "84fe5b49fd7a8f7a91416bddb0ff9c9f",
+                "similarity": 0.9960108988652985
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "f65122e6f32c2bcabdd432788ea598df",
+                "similarity": 0.9959887846703744
+            },
+            {
+                "source": "f65122e6f32c2bcabdd432788ea598df",
+                "target": "d83016dd56e9bf9199d175870ff56ee7",
+                "similarity": 0.9959887846703744
+            },
+            {
+                "source": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "target": "7e04a1b0282b57a1e9b67ac098091488",
+                "similarity": 0.9959205971141328
+            },
+            {
+                "source": "f65122e6f32c2bcabdd432788ea598df",
+                "target": "449bd7233f6a4cab9afe706cecfe36e0",
+                "similarity": 0.9958941190586806
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "similarity": 0.9958675501511065
+            },
+            {
+                "source": "49e43c72a73287140f0f953729063d65",
+                "target": "c98269563aae1fc073b7fc0372efa1a1",
+                "similarity": 0.9958597454511325
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "4912f57186d34a2d82be739faa2d4727",
+                "similarity": 0.9958395826340293
+            },
+            {
+                "source": "49e43c72a73287140f0f953729063d65",
+                "target": "ebd33e6c30a99fe9a58d49b9b95957cb",
+                "similarity": 0.9958176680738727
+            },
+            {
+                "source": "ebd33e6c30a99fe9a58d49b9b95957cb",
+                "target": "49e43c72a73287140f0f953729063d65",
+                "similarity": 0.9958176680738727
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "4b872d5e0f673d0259b22e6d6735672c",
+                "similarity": 0.9958145864605572
+            },
+            {
+                "source": "84fe5b49fd7a8f7a91416bddb0ff9c9f",
+                "target": "c98269563aae1fc073b7fc0372efa1a1",
+                "similarity": 0.9958116250941442
+            },
+            {
+                "source": "c343cd50ba0e64223225b8a54bd266d1",
+                "target": "c98269563aae1fc073b7fc0372efa1a1",
+                "similarity": 0.9957091236000204
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "similarity": 0.9957083516854499
+            },
+            {
+                "source": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "target": "d83016dd56e9bf9199d175870ff56ee7",
+                "similarity": 0.9957083516854499
+            },
+            {
+                "source": "c343cd50ba0e64223225b8a54bd266d1",
+                "target": "d83016dd56e9bf9199d175870ff56ee7",
+                "similarity": 0.9956539066573961
+            },
+            {
+                "source": "84fe5b49fd7a8f7a91416bddb0ff9c9f",
+                "target": "b4ee6522335b033249255b4cc1d57299",
+                "similarity": 0.9956324619599892
+            },
+            {
+                "source": "ebd33e6c30a99fe9a58d49b9b95957cb",
+                "target": "8e676f1894a0f6d94c9d031608d32dd1",
+                "similarity": 0.995577784193613
+            },
+            {
+                "source": "f65122e6f32c2bcabdd432788ea598df",
+                "target": "b4ee6522335b033249255b4cc1d57299",
+                "similarity": 0.9955223891348155
+            },
+            {
+                "source": "49e43c72a73287140f0f953729063d65",
+                "target": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "similarity": 0.9954650856199521
+            },
+            {
+                "source": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "target": "49e43c72a73287140f0f953729063d65",
+                "similarity": 0.9954650856199521
+            },
+            {
+                "source": "dbac364f8380e97e441c2d96f35248b3",
+                "target": "d83016dd56e9bf9199d175870ff56ee7",
+                "similarity": 0.9954306460907808
+            },
+            {
+                "source": "84fe5b49fd7a8f7a91416bddb0ff9c9f",
+                "target": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "similarity": 0.9954185434143968
+            },
+            {
+                "source": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "target": "84fe5b49fd7a8f7a91416bddb0ff9c9f",
+                "similarity": 0.9954185434143968
+            },
+            {
+                "source": "84fe5b49fd7a8f7a91416bddb0ff9c9f",
+                "target": "8e676f1894a0f6d94c9d031608d32dd1",
+                "similarity": 0.9954122655058948
+            },
+            {
+                "source": "dbac364f8380e97e441c2d96f35248b3",
+                "target": "49e43c72a73287140f0f953729063d65",
+                "similarity": 0.9953927932323064
+            },
+            {
+                "source": "49e43c72a73287140f0f953729063d65",
+                "target": "dbac364f8380e97e441c2d96f35248b3",
+                "similarity": 0.9953927932323064
+            },
+            {
+                "source": "6d85b2d399967a027efc0d611a548da5",
+                "target": "4b98365ff5ea8fbae89e983e4868e76b",
+                "similarity": 0.9952858513152816
+            },
+            {
+                "source": "c343cd50ba0e64223225b8a54bd266d1",
+                "target": "4912f57186d34a2d82be739faa2d4727",
+                "similarity": 0.9952354652181125
+            },
+            {
+                "source": "f65122e6f32c2bcabdd432788ea598df",
+                "target": "a456c5783ae4dc4f7023ecba50aaf1e3",
+                "similarity": 0.995216156664798
+            },
+            {
+                "source": "dbac364f8380e97e441c2d96f35248b3",
+                "target": "ee620923ff5fc510555dc37083a135ee",
+                "similarity": 0.9952082303159047
+            },
+            {
+                "source": "ebd33e6c30a99fe9a58d49b9b95957cb",
+                "target": "c98269563aae1fc073b7fc0372efa1a1",
+                "similarity": 0.9951525670664924
+            },
+            {
+                "source": "6d85b2d399967a027efc0d611a548da5",
+                "target": "326027f70bf51bce3001c234d43eb5ac",
+                "similarity": 0.995140560665713
+            },
+            {
+                "source": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "target": "8e676f1894a0f6d94c9d031608d32dd1",
+                "similarity": 0.9951405239370859
+            },
+            {
+                "source": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "target": "d38fc79040c0fb95d810cd165e946094",
+                "similarity": 0.9949895827499716
+            },
+            {
+                "source": "ebd33e6c30a99fe9a58d49b9b95957cb",
+                "target": "d83016dd56e9bf9199d175870ff56ee7",
+                "similarity": 0.9949758008763023
+            },
+            {
+                "source": "6d85b2d399967a027efc0d611a548da5",
+                "target": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "similarity": 0.9949003721514632
+            },
+            {
+                "source": "84fe5b49fd7a8f7a91416bddb0ff9c9f",
+                "target": "dbac364f8380e97e441c2d96f35248b3",
+                "similarity": 0.9948170692400156
+            },
+            {
+                "source": "dbac364f8380e97e441c2d96f35248b3",
+                "target": "84fe5b49fd7a8f7a91416bddb0ff9c9f",
+                "similarity": 0.9948170692400156
+            },
+            {
+                "source": "6d85b2d399967a027efc0d611a548da5",
+                "target": "bc20cb1fb33758f26e89a30c97c99c39",
+                "similarity": 0.9947781362059395
+            },
+            {
+                "source": "ebd33e6c30a99fe9a58d49b9b95957cb",
+                "target": "7e04a1b0282b57a1e9b67ac098091488",
+                "similarity": 0.9947058558442304
+            },
+            {
+                "source": "f65122e6f32c2bcabdd432788ea598df",
+                "target": "8b8f463386229e27d313fc82f169fc5a",
+                "similarity": 0.9946944061807798
+            },
+            {
+                "source": "ebd33e6c30a99fe9a58d49b9b95957cb",
+                "target": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "similarity": 0.9946575802301809
+            },
+            {
+                "source": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "target": "ebd33e6c30a99fe9a58d49b9b95957cb",
+                "similarity": 0.9946575802301809
+            },
+            {
+                "source": "c343cd50ba0e64223225b8a54bd266d1",
+                "target": "8e676f1894a0f6d94c9d031608d32dd1",
+                "similarity": 0.9946095051069167
+            },
+            {
+                "source": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "target": "5cd38e52925a31ce8d58d7c43fa7e570",
+                "similarity": 0.9945870489901268
+            },
+            {
+                "source": "ebd33e6c30a99fe9a58d49b9b95957cb",
+                "target": "b4ee6522335b033249255b4cc1d57299",
+                "similarity": 0.9944386017997376
+            },
+            {
+                "source": "c343cd50ba0e64223225b8a54bd266d1",
+                "target": "f6bf9c3593354b28043e84f76fcab484",
+                "similarity": 0.9944103074464747
+            },
+            {
+                "source": "84fe5b49fd7a8f7a91416bddb0ff9c9f",
+                "target": "7e04a1b0282b57a1e9b67ac098091488",
+                "similarity": 0.9944060219976009
+            },
+            {
+                "source": "49e43c72a73287140f0f953729063d65",
+                "target": "8e676f1894a0f6d94c9d031608d32dd1",
+                "similarity": 0.9944054423331032
+            },
+            {
+                "source": "f65122e6f32c2bcabdd432788ea598df",
+                "target": "22d5b2c330e6acec8c10daacc782921a",
+                "similarity": 0.9943828325034468
+            },
+            {
+                "source": "c343cd50ba0e64223225b8a54bd266d1",
+                "target": "49e43c72a73287140f0f953729063d65",
+                "similarity": 0.994353631697108
+            },
+            {
+                "source": "49e43c72a73287140f0f953729063d65",
+                "target": "c343cd50ba0e64223225b8a54bd266d1",
+                "similarity": 0.994353631697108
+            },
+            {
+                "source": "c343cd50ba0e64223225b8a54bd266d1",
+                "target": "84fe5b49fd7a8f7a91416bddb0ff9c9f",
+                "similarity": 0.9942966824290435
+            },
+            {
+                "source": "84fe5b49fd7a8f7a91416bddb0ff9c9f",
+                "target": "c343cd50ba0e64223225b8a54bd266d1",
+                "similarity": 0.9942966824290435
+            },
+            {
+                "source": "49e43c72a73287140f0f953729063d65",
+                "target": "00f665393b60cff030eeecf3d9a1b043",
+                "similarity": 0.9942788388552346
+            },
+            {
+                "source": "84fe5b49fd7a8f7a91416bddb0ff9c9f",
+                "target": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "similarity": 0.994180550705954
+            },
+            {
+                "source": "dbac364f8380e97e441c2d96f35248b3",
+                "target": "f65122e6f32c2bcabdd432788ea598df",
+                "similarity": 0.9940303902601577
+            },
+            {
+                "source": "dbac364f8380e97e441c2d96f35248b3",
+                "target": "ebd33e6c30a99fe9a58d49b9b95957cb",
+                "similarity": 0.9938650227158473
+            },
+            {
+                "source": "ebd33e6c30a99fe9a58d49b9b95957cb",
+                "target": "dbac364f8380e97e441c2d96f35248b3",
+                "similarity": 0.9938650227158473
+            },
+            {
+                "source": "dbac364f8380e97e441c2d96f35248b3",
+                "target": "6d85b2d399967a027efc0d611a548da5",
+                "similarity": 0.9937803462337191
+            },
+            {
+                "source": "49e43c72a73287140f0f953729063d65",
+                "target": "7e04a1b0282b57a1e9b67ac098091488",
+                "similarity": 0.9937546759497087
+            },
+            {
+                "source": "dbac364f8380e97e441c2d96f35248b3",
+                "target": "c98269563aae1fc073b7fc0372efa1a1",
+                "similarity": 0.9934717276654982
+            },
+            {
+                "source": "49e43c72a73287140f0f953729063d65",
+                "target": "d83016dd56e9bf9199d175870ff56ee7",
+                "similarity": 0.9934681646850774
+            },
+            {
+                "source": "dbac364f8380e97e441c2d96f35248b3",
+                "target": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "similarity": 0.9933096758956655
+            }
+        ],
+        "centroids": [
+            "dbac364f8380e97e441c2d96f35248b3"
+        ]
+    },
+    "message": "OK",
+    "status": 200
+}

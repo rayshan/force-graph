@@ -1,0 +1,1195 @@
+{
+    "data": {
+        "nodes": [
+            {
+                "cId": "517b310c4d75ce558fe3e197828c16e5",
+                "title": "United States Senate career of Barack Obama",
+                "sense": "government_and_politics",
+                "_weight": 1,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "13",
+                        "score": 0.2792160432232384,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "subtopic": "3",
+                        "score": 0.26250478190512866,
+                        "name": "Political Science"
+                    },
+                    {
+                        "subtopic": "8",
+                        "score": 0.1553855415824536,
+                        "name": "Education"
+                    },
+                    {
+                        "topic": "13",
+                        "subtopic": "13_1",
+                        "score": 0.0754065695538673,
+                        "name": "Public Policy"
+                    },
+                    {
+                        "subtopic": "11",
+                        "score": 0.06528804738657387,
+                        "name": "History"
+                    },
+                    {
+                        "topic": "3",
+                        "subtopic": "3_4",
+                        "score": 0.05776845666727076,
+                        "name": "Politics"
+                    },
+                    {
+                        "topic": "13",
+                        "subtopic": "13_4",
+                        "score": 0.05280521424736099,
+                        "name": "Industries"
+                    },
+                    {
+                        "topic": "13",
+                        "subtopic": "13_3",
+                        "score": 0.051625345434106414,
+                        "name": "Labor"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 8,
+                        "text": "The United States Senate career of Barack Obama began on January 4, 2005 and ended on November 16, 2008. He resigned his seat in the Illinois Senate to serve and would resign upon being elected President of the United States. Obama won the seat in an election against Alan Keyes who replaced Republican Primary election winner Jack Ryan.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/United States Senate career of Barack Obama",
+                        "year": 2016,
+                        "title": "United States Senate career of Barack Obama",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "b8ede9da9c3b761fcf8123e3397f50ab",
+                "title": "Political positions of Jeb Bush",
+                "sense": "government_and_politics",
+                "_weight": 1,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "8",
+                        "score": 0.3319852950959052,
+                        "name": "Education"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.2723768250557335,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "subtopic": "3",
+                        "score": 0.1850855879196045,
+                        "name": "Political Science"
+                    },
+                    {
+                        "topic": "8",
+                        "subtopic": "8_1",
+                        "score": 0.10846664426254243,
+                        "name": "General"
+                    },
+                    {
+                        "topic": "13",
+                        "subtopic": "13_1",
+                        "score": 0.10208564766621431,
+                        "name": "Public Policy"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 7,
+                        "text": "Jeb Bush is a Republican politician in the United States. Bush was governor of Florida from 1999 to 2007.  He is currently a candidate for the Republican nomination for president of the United States in the 2016 election.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Political positions of Jeb Bush",
+                        "year": 2016,
+                        "title": "Political positions of Jeb Bush",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "1d065e49cdda0badd1d618974213e650",
+                "title": "Foreign policy of Barack Obama",
+                "sense": "government_and_politics",
+                "_weight": 1,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "3",
+                        "score": 0.4988217990341094,
+                        "name": "Political Science"
+                    },
+                    {
+                        "topic": "3",
+                        "subtopic": "3_3",
+                        "score": 0.20763205607565444,
+                        "name": "Security"
+                    },
+                    {
+                        "subtopic": "8",
+                        "score": 0.1593780720725296,
+                        "name": "Education"
+                    },
+                    {
+                        "topic": "3",
+                        "subtopic": "3_1",
+                        "score": 0.06956741498450533,
+                        "name": "Military"
+                    },
+                    {
+                        "topic": "3",
+                        "subtopic": "3_2",
+                        "score": 0.06460065783320133,
+                        "name": "US"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 5,
+                        "text": "The foreign policy of the Barack Obama administration has been the foreign policy of the United States since Obama's January 2009 inauguration as President of the United States. Obama named his chief rival for the nomination Hillary Rodham Clinton as Secretary of State during his first term, with Massachusetts Senator John Kerry taking over the post in February 2013.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Foreign policy of Barack Obama",
+                        "year": 2016,
+                        "title": "Foreign policy of Barack Obama",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "215865868473ecf27745ea7e0f56ed04",
+                "title": "Barack Obama",
+                "sense": "government_and_politics",
+                "_weight": 371,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "8",
+                        "score": 0.3986474481764558,
+                        "name": "Education"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.19914613752888546,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "topic": "8",
+                        "subtopic": "8_0",
+                        "score": 0.163097190279812,
+                        "name": "Higher Education"
+                    },
+                    {
+                        "subtopic": "3",
+                        "score": 0.10995234987209837,
+                        "name": "Political Science"
+                    },
+                    {
+                        "subtopic": "11",
+                        "score": 0.06482342698802723,
+                        "name": "History"
+                    },
+                    {
+                        "topic": "8",
+                        "subtopic": "8_3",
+                        "score": 0.06433344715472113,
+                        "name": "Linguistics"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 0,
+                        "text": "Barack Hussein Obama II (US /bəˈrɑːk huːˈseɪn ɵˈbɑːmə/; born August 4, 1961) is the 44th and current President of the United States, and the first African American to hold the office. Born in Honolulu, Hawaii, Obama is a graduate of Columbia University and Harvard Law School, where he served as president of the Harvard Law Review. He was a community organizer in Chicago before earning his law degree.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Barack Obama",
+                        "year": 2016,
+                        "title": "Barack Obama",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "9cebf7c23629c96b119b2f1140b18343",
+                "title": "Early life and career of Barack Obama",
+                "sense": "humanities",
+                "_weight": 1,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "13",
+                        "score": 0.27917816051136257,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "subtopic": "8",
+                        "score": 0.21120094829252256,
+                        "name": "Education"
+                    },
+                    {
+                        "subtopic": "3",
+                        "score": 0.10109571369719578,
+                        "name": "Political Science"
+                    },
+                    {
+                        "topic": "13",
+                        "subtopic": "13_4",
+                        "score": 0.08681495767794206,
+                        "name": "Industries"
+                    },
+                    {
+                        "subtopic": "7",
+                        "score": 0.07992752350975421,
+                        "name": "Medicine"
+                    },
+                    {
+                        "topic": "13",
+                        "subtopic": "13_1",
+                        "score": 0.066756920732884,
+                        "name": "Public Policy"
+                    },
+                    {
+                        "subtopic": "15",
+                        "score": 0.06577801151231792,
+                        "name": "Humanities"
+                    },
+                    {
+                        "subtopic": "11",
+                        "score": 0.0547403364179059,
+                        "name": "History"
+                    },
+                    {
+                        "subtopic": "1",
+                        "score": 0.054507427648115,
+                        "name": "Nature"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 2,
+                        "text": "Barack Obama, the 44th President of the United States, was born on August 4, 1961 in Honolulu, Hawaii to Barack Obama, Sr. (1936–1982) (born in Rachuonyo District, Kenya Colony, British Empire) and Stanley Ann Dunham, known as Ann (1942–1995) (born in Wichita, Kansas, United States).Obama spent most of his childhood years in Honolulu, where his mother completed college after his parents divorced. Obama started a close relationship with his maternal grandparents.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Early life and career of Barack Obama",
+                        "year": 2016,
+                        "title": "Early life and career of Barack Obama",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "b1faa9bf6eed0a4694f9638194baba6f",
+                "title": "Political positions of Mitt Romney",
+                "sense": "government_and_politics",
+                "_weight": 1,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "8",
+                        "score": 0.3726496859811981,
+                        "name": "Education"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.17543282596670376,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "topic": "8",
+                        "subtopic": "8_1",
+                        "score": 0.1545168513573085,
+                        "name": "General"
+                    },
+                    {
+                        "subtopic": "11",
+                        "score": 0.11357628042110789,
+                        "name": "History"
+                    },
+                    {
+                        "subtopic": "3",
+                        "score": 0.07497592892995937,
+                        "name": "Political Science"
+                    },
+                    {
+                        "subtopic": "15",
+                        "score": 0.056341274461391914,
+                        "name": "Humanities"
+                    },
+                    {
+                        "subtopic": "14",
+                        "score": 0.05250715288233035,
+                        "name": "Life Sciences"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 3,
+                        "text": "The political positions of Mitt Romney have been recorded from his 1994 U.S. senatorial campaign, the 2002 gubernatorial election, during his 2003–2007 governorship, during his 2008 U.S. presidential campaign, in his 2010 book No Apology: The Case for American Greatness, and during his 2012 U.S. presidential campaign.  Some of these political positions have changed, while others have remained unchanged.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Political positions of Mitt Romney",
+                        "year": 2016,
+                        "title": "Political positions of Mitt Romney",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "06e983c29e539f4fc70c64f225f1e2b3",
+                "title": "Presidency of Barack Obama",
+                "sense": "government_and_politics",
+                "_weight": 55,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "3",
+                        "score": 0.3100597729000415,
+                        "name": "Political Science"
+                    },
+                    {
+                        "subtopic": "8",
+                        "score": 0.22077742802929035,
+                        "name": "Education"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.13913316250407537,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "topic": "3",
+                        "subtopic": "3_3",
+                        "score": 0.07514831912538773,
+                        "name": "Security"
+                    },
+                    {
+                        "subtopic": "11",
+                        "score": 0.0690179291094042,
+                        "name": "History"
+                    },
+                    {
+                        "topic": "8",
+                        "subtopic": "8_0",
+                        "score": 0.06535004984169346,
+                        "name": "Higher Education"
+                    },
+                    {
+                        "topic": "3",
+                        "subtopic": "3_1",
+                        "score": 0.06292846605172232,
+                        "name": "Military"
+                    },
+                    {
+                        "topic": "3",
+                        "subtopic": "3_4",
+                        "score": 0.05758487243838495,
+                        "name": "Politics"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 1,
+                        "text": "The Presidency of Barack Obama began at noon EST on January 20, 2009, when he became the 44th President of the United States. Obama was a United States Senator from Illinois at the time of his victory over Arizona Senator John McCain in the 2008 presidential election.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Presidency of Barack Obama",
+                        "year": 2016,
+                        "title": "Presidency of Barack Obama",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "6474bcb9af753cd977555a122a563bc1",
+                "title": "Comparison of United States presidential candidates, 2008",
+                "sense": "business",
+                "_weight": 1,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "3",
+                        "score": 0.2565427419719207,
+                        "name": "Political Science"
+                    },
+                    {
+                        "subtopic": "8",
+                        "score": 0.2405884732542976,
+                        "name": "Education"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.19405496561906152,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "topic": "3",
+                        "subtopic": "3_4",
+                        "score": 0.11466078900993211,
+                        "name": "Politics"
+                    },
+                    {
+                        "topic": "8",
+                        "subtopic": "8_1",
+                        "score": 0.06892064774679481,
+                        "name": "General"
+                    },
+                    {
+                        "subtopic": "5",
+                        "score": 0.0680278710367083,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "8",
+                        "subtopic": "8_0",
+                        "score": 0.05720451136128486,
+                        "name": "Higher Education"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 9,
+                        "text": "This article compares the presidential candidates in the United States' 2008 presidential election. It does not cover previous elections. Because of ballot access restrictions in the United States, not all candidates appeared on the ballots in all states.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Comparison of United States presidential candidates, 2008",
+                        "year": 2015,
+                        "title": "Comparison of United States presidential candidates, 2008",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "28c573360737911dba024849088992cc",
+                "title": "Family of Barack Obama",
+                "sense": "humanities",
+                "_weight": 2,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "8",
+                        "score": 0.2696694187639997,
+                        "name": "Education"
+                    },
+                    {
+                        "subtopic": "17",
+                        "score": 0.20425881588923728,
+                        "name": "Health Care"
+                    },
+                    {
+                        "subtopic": "11",
+                        "score": 0.14444385572326404,
+                        "name": "History"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.09589523637930092,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "subtopic": "3",
+                        "score": 0.08473534011159489,
+                        "name": "Political Science"
+                    },
+                    {
+                        "topic": "8",
+                        "subtopic": "8_0",
+                        "score": 0.0777654333374426,
+                        "name": "Higher Education"
+                    },
+                    {
+                        "topic": "8",
+                        "subtopic": "8_1",
+                        "score": 0.0650474853748943,
+                        "name": "General"
+                    },
+                    {
+                        "topic": "17",
+                        "subtopic": "17_2",
+                        "score": 0.05818441442026619,
+                        "name": "Nutrition"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 6,
+                        "text": "The family of Barack Obama, the 44th President of the United States of America, is made up of people of Kenyan (Luo), English, African-American and Irish heritage, who are known through Obama's writings and other reports. His immediate family is the First Family of the United States. The Obamas are the first First Family of African descent.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Family of Barack Obama",
+                        "year": 2016,
+                        "title": "Family of Barack Obama",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "39befb24f3d65ff7d5d9f7d5d1533a4e",
+                "title": "Social policy of Barack Obama",
+                "sense": "government_and_politics",
+                "_weight": 1,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "17",
+                        "score": 0.32371605087617167,
+                        "name": "Health Care"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.18006842791122823,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "subtopic": "8",
+                        "score": 0.1502760381964122,
+                        "name": "Education"
+                    },
+                    {
+                        "topic": "17",
+                        "subtopic": "17_5",
+                        "score": 0.11755407453734376,
+                        "name": "Prevention"
+                    },
+                    {
+                        "subtopic": "3",
+                        "score": 0.10770880339893556,
+                        "name": "Political Science"
+                    },
+                    {
+                        "subtopic": "11",
+                        "score": 0.06429391306026133,
+                        "name": "History"
+                    },
+                    {
+                        "subtopic": "1",
+                        "score": 0.05638269201964734,
+                        "name": "Nature"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 4,
+                        "text": "The Almanac of American Politics (2008) rated Barack Obama's overall social policies in 2006 as more conservative than 21% of the Senate, and more liberal than 77% of the Senate (18% and 77%, respectively, in 2005).",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Social policy of Barack Obama",
+                        "year": 2016,
+                        "title": "Social policy of Barack Obama",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "c28c5390a0fe6c3e9c67a91fd2b26406",
+                "title": "First 100 days of Barack Obama's presidency",
+                "sense": "government_and_politics",
+                "_weight": 5,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "3",
+                        "score": 0.3081273650689113,
+                        "name": "Political Science"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.26769953920867806,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "subtopic": "8",
+                        "score": 0.14218071094047482,
+                        "name": "Education"
+                    },
+                    {
+                        "topic": "3",
+                        "subtopic": "3_1",
+                        "score": 0.08769226355908952,
+                        "name": "Military"
+                    },
+                    {
+                        "subtopic": "0",
+                        "score": 0.07465315648318943,
+                        "name": "Science"
+                    },
+                    {
+                        "topic": "13",
+                        "subtopic": "13_1",
+                        "score": 0.06037464990191996,
+                        "name": "Public Policy"
+                    },
+                    {
+                        "subtopic": "17",
+                        "score": 0.05927231483773681,
+                        "name": "Health Care"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 10,
+                        "text": "The first 100 days of Barack Obama's presidency began with his inauguration on January 20, 2009 as the 44th President of the United States. The first 100 days of a presidential term took on symbolic significance during Franklin D. Roosevelt's administration, and the period is considered a benchmark to measure the early success of a president. Obama's 100th day in office was April 29, 2009.Obama began to formally create his presidential footprint during his first 100 days.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/First 100 days of Barack Obama's presidency",
+                        "year": 2016,
+                        "title": "First 100 days of Barack Obama's presidency",
+                        "label": "Source"
+                    }
+                ]
+            }
+        ],
+        "edges": [
+            {
+                "source": "215865868473ecf27745ea7e0f56ed04",
+                "target": "06e983c29e539f4fc70c64f225f1e2b3",
+                "similarity": 0.9990671916882918
+            },
+            {
+                "source": "06e983c29e539f4fc70c64f225f1e2b3",
+                "target": "215865868473ecf27745ea7e0f56ed04",
+                "similarity": 0.9990671916882918
+            },
+            {
+                "source": "b8ede9da9c3b761fcf8123e3397f50ab",
+                "target": "c20ba1bae3627c73ac222e546d575503",
+                "similarity": 0.9987500031920999
+            },
+            {
+                "source": "6474bcb9af753cd977555a122a563bc1",
+                "target": "0f83bb2487722bc8f165223461bd6068",
+                "similarity": 0.9987002986004779
+            },
+            {
+                "source": "c28c5390a0fe6c3e9c67a91fd2b26406",
+                "target": "06e983c29e539f4fc70c64f225f1e2b3",
+                "similarity": 0.9985448148721695
+            },
+            {
+                "source": "06e983c29e539f4fc70c64f225f1e2b3",
+                "target": "c28c5390a0fe6c3e9c67a91fd2b26406",
+                "similarity": 0.9985448148721695
+            },
+            {
+                "source": "06e983c29e539f4fc70c64f225f1e2b3",
+                "target": "78797a986af21dbcdbbaf91062686cc8",
+                "similarity": 0.9983773705444886
+            },
+            {
+                "source": "c28c5390a0fe6c3e9c67a91fd2b26406",
+                "target": "e34d6dfb6f7bd4e84a57c78aaefb5da7",
+                "similarity": 0.9983373138790091
+            },
+            {
+                "source": "1d065e49cdda0badd1d618974213e650",
+                "target": "78797a986af21dbcdbbaf91062686cc8",
+                "similarity": 0.9983315723381252
+            },
+            {
+                "source": "06e983c29e539f4fc70c64f225f1e2b3",
+                "target": "e34d6dfb6f7bd4e84a57c78aaefb5da7",
+                "similarity": 0.9983305353023171
+            },
+            {
+                "source": "06e983c29e539f4fc70c64f225f1e2b3",
+                "target": "1d065e49cdda0badd1d618974213e650",
+                "similarity": 0.9982768139930787
+            },
+            {
+                "source": "1d065e49cdda0badd1d618974213e650",
+                "target": "06e983c29e539f4fc70c64f225f1e2b3",
+                "similarity": 0.9982768139930787
+            },
+            {
+                "source": "06e983c29e539f4fc70c64f225f1e2b3",
+                "target": "b1faa9bf6eed0a4694f9638194baba6f",
+                "similarity": 0.9982327008472971
+            },
+            {
+                "source": "b1faa9bf6eed0a4694f9638194baba6f",
+                "target": "06e983c29e539f4fc70c64f225f1e2b3",
+                "similarity": 0.9982327008472971
+            },
+            {
+                "source": "215865868473ecf27745ea7e0f56ed04",
+                "target": "9cebf7c23629c96b119b2f1140b18343",
+                "similarity": 0.9981958445705712
+            },
+            {
+                "source": "9cebf7c23629c96b119b2f1140b18343",
+                "target": "215865868473ecf27745ea7e0f56ed04",
+                "similarity": 0.9981958445705712
+            },
+            {
+                "source": "06e983c29e539f4fc70c64f225f1e2b3",
+                "target": "1721fd93c7920e9a4c7a3efa9dc68f00",
+                "similarity": 0.9980818510569744
+            },
+            {
+                "source": "b1faa9bf6eed0a4694f9638194baba6f",
+                "target": "0f83bb2487722bc8f165223461bd6068",
+                "similarity": 0.9979799888760857
+            },
+            {
+                "source": "c28c5390a0fe6c3e9c67a91fd2b26406",
+                "target": "1721fd93c7920e9a4c7a3efa9dc68f00",
+                "similarity": 0.9979361186855388
+            },
+            {
+                "source": "06e983c29e539f4fc70c64f225f1e2b3",
+                "target": "037108aee796b0d750faec8792307cd8",
+                "similarity": 0.9978962043725739
+            },
+            {
+                "source": "b8ede9da9c3b761fcf8123e3397f50ab",
+                "target": "06e983c29e539f4fc70c64f225f1e2b3",
+                "similarity": 0.9978730531823531
+            },
+            {
+                "source": "06e983c29e539f4fc70c64f225f1e2b3",
+                "target": "b8ede9da9c3b761fcf8123e3397f50ab",
+                "similarity": 0.9978730531823531
+            },
+            {
+                "source": "06e983c29e539f4fc70c64f225f1e2b3",
+                "target": "766a14542a44867c453fa89c1a5b9bfb",
+                "similarity": 0.9977613968279425
+            },
+            {
+                "source": "b8ede9da9c3b761fcf8123e3397f50ab",
+                "target": "4fd63b78aba31d1df8e2f62bd5d25a35",
+                "similarity": 0.997699691144566
+            },
+            {
+                "source": "b1faa9bf6eed0a4694f9638194baba6f",
+                "target": "6cf924bf8c6789d023e11318946c67ce",
+                "similarity": 0.9976295368698933
+            },
+            {
+                "source": "1d065e49cdda0badd1d618974213e650",
+                "target": "022fd36aaf27c20c8864f0d054e68226",
+                "similarity": 0.9975296593286886
+            },
+            {
+                "source": "b1faa9bf6eed0a4694f9638194baba6f",
+                "target": "7ba6b4c0af48b6449fe827a173eda911",
+                "similarity": 0.9975140617685343
+            },
+            {
+                "source": "6474bcb9af753cd977555a122a563bc1",
+                "target": "39befb24f3d65ff7d5d9f7d5d1533a4e",
+                "similarity": 0.9974850472193604
+            },
+            {
+                "source": "39befb24f3d65ff7d5d9f7d5d1533a4e",
+                "target": "6474bcb9af753cd977555a122a563bc1",
+                "similarity": 0.9974850472193604
+            },
+            {
+                "source": "b1faa9bf6eed0a4694f9638194baba6f",
+                "target": "940dd4e16f7c2001834e0121d672a6f6",
+                "similarity": 0.9974363467286631
+            },
+            {
+                "source": "b1faa9bf6eed0a4694f9638194baba6f",
+                "target": "215865868473ecf27745ea7e0f56ed04",
+                "similarity": 0.9973815429041828
+            },
+            {
+                "source": "215865868473ecf27745ea7e0f56ed04",
+                "target": "b1faa9bf6eed0a4694f9638194baba6f",
+                "similarity": 0.9973815429041828
+            },
+            {
+                "source": "6474bcb9af753cd977555a122a563bc1",
+                "target": "b1faa9bf6eed0a4694f9638194baba6f",
+                "similarity": 0.9973628865494263
+            },
+            {
+                "source": "b1faa9bf6eed0a4694f9638194baba6f",
+                "target": "6474bcb9af753cd977555a122a563bc1",
+                "similarity": 0.9973628865494263
+            },
+            {
+                "source": "6474bcb9af753cd977555a122a563bc1",
+                "target": "f529b56e67a6297704b4ff616f65ec44",
+                "similarity": 0.9973570160393912
+            },
+            {
+                "source": "9cebf7c23629c96b119b2f1140b18343",
+                "target": "e3f83f2bac5536bac6866571d4331cfb",
+                "similarity": 0.9973545912125058
+            },
+            {
+                "source": "28c573360737911dba024849088992cc",
+                "target": "eaee0b8f14b11aa9b96cc15b00d7e407",
+                "similarity": 0.9973366811060522
+            },
+            {
+                "source": "b8ede9da9c3b761fcf8123e3397f50ab",
+                "target": "7a576a6a7a8c181deea3629e01582f8c",
+                "similarity": 0.9973273000615359
+            },
+            {
+                "source": "6474bcb9af753cd977555a122a563bc1",
+                "target": "19b23aa0acf77117ddcfd8c5a735aae4",
+                "similarity": 0.9972442335653949
+            },
+            {
+                "source": "9cebf7c23629c96b119b2f1140b18343",
+                "target": "eaee0b8f14b11aa9b96cc15b00d7e407",
+                "similarity": 0.9972427354756784
+            },
+            {
+                "source": "6474bcb9af753cd977555a122a563bc1",
+                "target": "e6ae883fb67fdb29fdcf0c54148d79e5",
+                "similarity": 0.9972241474614053
+            },
+            {
+                "source": "6474bcb9af753cd977555a122a563bc1",
+                "target": "940dd4e16f7c2001834e0121d672a6f6",
+                "similarity": 0.9971908023349139
+            },
+            {
+                "source": "39befb24f3d65ff7d5d9f7d5d1533a4e",
+                "target": "215865868473ecf27745ea7e0f56ed04",
+                "similarity": 0.9971854891810971
+            },
+            {
+                "source": "215865868473ecf27745ea7e0f56ed04",
+                "target": "39befb24f3d65ff7d5d9f7d5d1533a4e",
+                "similarity": 0.9971854891810971
+            },
+            {
+                "source": "215865868473ecf27745ea7e0f56ed04",
+                "target": "1d065e49cdda0badd1d618974213e650",
+                "similarity": 0.9971314735927239
+            },
+            {
+                "source": "1d065e49cdda0badd1d618974213e650",
+                "target": "215865868473ecf27745ea7e0f56ed04",
+                "similarity": 0.9971314735927239
+            },
+            {
+                "source": "28c573360737911dba024849088992cc",
+                "target": "84d92f4ca474c7d7d4177da879b22a2e",
+                "similarity": 0.9970739699652896
+            },
+            {
+                "source": "b8ede9da9c3b761fcf8123e3397f50ab",
+                "target": "b1faa9bf6eed0a4694f9638194baba6f",
+                "similarity": 0.997007794132357
+            },
+            {
+                "source": "b1faa9bf6eed0a4694f9638194baba6f",
+                "target": "b8ede9da9c3b761fcf8123e3397f50ab",
+                "similarity": 0.997007794132357
+            },
+            {
+                "source": "b8ede9da9c3b761fcf8123e3397f50ab",
+                "target": "cd6e708fd152effec3271816654e595b",
+                "similarity": 0.996810173484254
+            },
+            {
+                "source": "39befb24f3d65ff7d5d9f7d5d1533a4e",
+                "target": "c26118662a00fff932749e7a4b1945a2",
+                "similarity": 0.9967817674256966
+            },
+            {
+                "source": "215865868473ecf27745ea7e0f56ed04",
+                "target": "28c573360737911dba024849088992cc",
+                "similarity": 0.996774780131431
+            },
+            {
+                "source": "28c573360737911dba024849088992cc",
+                "target": "215865868473ecf27745ea7e0f56ed04",
+                "similarity": 0.996774780131431
+            },
+            {
+                "source": "b8ede9da9c3b761fcf8123e3397f50ab",
+                "target": "be67d9dadd021f32ed92becc6ca03824",
+                "similarity": 0.9967145571489618
+            },
+            {
+                "source": "b8ede9da9c3b761fcf8123e3397f50ab",
+                "target": "7ba6b4c0af48b6449fe827a173eda911",
+                "similarity": 0.996629888547794
+            },
+            {
+                "source": "28c573360737911dba024849088992cc",
+                "target": "b425f05b7b8fa383e983d346285ea829",
+                "similarity": 0.9965954863105687
+            },
+            {
+                "source": "b1faa9bf6eed0a4694f9638194baba6f",
+                "target": "1de30a308347cd7aff1b865d1240ccae",
+                "similarity": 0.9965953267532093
+            },
+            {
+                "source": "b8ede9da9c3b761fcf8123e3397f50ab",
+                "target": "215865868473ecf27745ea7e0f56ed04",
+                "similarity": 0.996573950245078
+            },
+            {
+                "source": "215865868473ecf27745ea7e0f56ed04",
+                "target": "b8ede9da9c3b761fcf8123e3397f50ab",
+                "similarity": 0.996573950245078
+            },
+            {
+                "source": "1d065e49cdda0badd1d618974213e650",
+                "target": "c661be657e2a21b4108fa16757d4d7df",
+                "similarity": 0.9965708424100671
+            },
+            {
+                "source": "6474bcb9af753cd977555a122a563bc1",
+                "target": "8b1cc22d1b49dd4984769755144c3d7d",
+                "similarity": 0.996514126241902
+            },
+            {
+                "source": "b8ede9da9c3b761fcf8123e3397f50ab",
+                "target": "0d5866bdbd1145b2b4b251f5ef59117e",
+                "similarity": 0.996510982884251
+            },
+            {
+                "source": "b1faa9bf6eed0a4694f9638194baba6f",
+                "target": "2ff984f76dfa94ff7978ac006c480b56",
+                "similarity": 0.9964664885931304
+            },
+            {
+                "source": "215865868473ecf27745ea7e0f56ed04",
+                "target": "517b310c4d75ce558fe3e197828c16e5",
+                "similarity": 0.9964388319707949
+            },
+            {
+                "source": "517b310c4d75ce558fe3e197828c16e5",
+                "target": "215865868473ecf27745ea7e0f56ed04",
+                "similarity": 0.9964388319707949
+            },
+            {
+                "source": "6474bcb9af753cd977555a122a563bc1",
+                "target": "7293088a6ded37f8b06e8cf559a0d245",
+                "similarity": 0.9963893722642475
+            },
+            {
+                "source": "215865868473ecf27745ea7e0f56ed04",
+                "target": "6474bcb9af753cd977555a122a563bc1",
+                "similarity": 0.996228218359772
+            },
+            {
+                "source": "6474bcb9af753cd977555a122a563bc1",
+                "target": "215865868473ecf27745ea7e0f56ed04",
+                "similarity": 0.996228218359772
+            },
+            {
+                "source": "215865868473ecf27745ea7e0f56ed04",
+                "target": "c28c5390a0fe6c3e9c67a91fd2b26406",
+                "similarity": 0.9961902833110013
+            },
+            {
+                "source": "c28c5390a0fe6c3e9c67a91fd2b26406",
+                "target": "215865868473ecf27745ea7e0f56ed04",
+                "similarity": 0.9961902833110013
+            },
+            {
+                "source": "9cebf7c23629c96b119b2f1140b18343",
+                "target": "84d92f4ca474c7d7d4177da879b22a2e",
+                "similarity": 0.9961767807345756
+            },
+            {
+                "source": "39befb24f3d65ff7d5d9f7d5d1533a4e",
+                "target": "0f83bb2487722bc8f165223461bd6068",
+                "similarity": 0.9961633563249211
+            },
+            {
+                "source": "1d065e49cdda0badd1d618974213e650",
+                "target": "d210e80f444b9dd341eaf362c4cd364c",
+                "similarity": 0.9961524159644851
+            },
+            {
+                "source": "28c573360737911dba024849088992cc",
+                "target": "bb7231199552bc752113736b21937893",
+                "similarity": 0.9961274433250044
+            },
+            {
+                "source": "1d065e49cdda0badd1d618974213e650",
+                "target": "cac6217d3875ae4ba5af342d2b4f0383",
+                "similarity": 0.9959982504539024
+            },
+            {
+                "source": "39befb24f3d65ff7d5d9f7d5d1533a4e",
+                "target": "dceca94187fb26270d74cf823236e3bb",
+                "similarity": 0.9958485753555187
+            },
+            {
+                "source": "39befb24f3d65ff7d5d9f7d5d1533a4e",
+                "target": "06e983c29e539f4fc70c64f225f1e2b3",
+                "similarity": 0.9957018747364421
+            },
+            {
+                "source": "28c573360737911dba024849088992cc",
+                "target": "20f1aae59c22e6fd9e2fde88e3eed42b",
+                "similarity": 0.9955254517107408
+            },
+            {
+                "source": "1d065e49cdda0badd1d618974213e650",
+                "target": "1911f1d4d9fdf834a1632bcf000cb3ec",
+                "similarity": 0.9954860843995509
+            },
+            {
+                "source": "1d065e49cdda0badd1d618974213e650",
+                "target": "bc8950ea2b477cd1088ba35670171d5f",
+                "similarity": 0.9953516925245534
+            },
+            {
+                "source": "28c573360737911dba024849088992cc",
+                "target": "1c66c4281902e08e9410b0c91404e605",
+                "similarity": 0.995292019108626
+            },
+            {
+                "source": "39befb24f3d65ff7d5d9f7d5d1533a4e",
+                "target": "be67d9dadd021f32ed92becc6ca03824",
+                "similarity": 0.9952180321820361
+            },
+            {
+                "source": "39befb24f3d65ff7d5d9f7d5d1533a4e",
+                "target": "669744b9e662d113e3f5aabd3f03cc70",
+                "similarity": 0.9952010107142577
+            },
+            {
+                "source": "1d065e49cdda0badd1d618974213e650",
+                "target": "e34d6dfb6f7bd4e84a57c78aaefb5da7",
+                "similarity": 0.9950710027043199
+            },
+            {
+                "source": "c28c5390a0fe6c3e9c67a91fd2b26406",
+                "target": "e88107bbfd1a52845d205d2895096c9f",
+                "similarity": 0.9948363962282063
+            },
+            {
+                "source": "c28c5390a0fe6c3e9c67a91fd2b26406",
+                "target": "b7c91dce8e48aff2b9844e487f3b3192",
+                "similarity": 0.9946462591163195
+            },
+            {
+                "source": "c28c5390a0fe6c3e9c67a91fd2b26406",
+                "target": "5d9dea5a0b18377d420c1aecd6e0ba13",
+                "similarity": 0.9944387760577083
+            },
+            {
+                "source": "9cebf7c23629c96b119b2f1140b18343",
+                "target": "c50ddee2e0f43771b6c6307d1390bbf5",
+                "similarity": 0.9940727518378993
+            },
+            {
+                "source": "28c573360737911dba024849088992cc",
+                "target": "9cebf7c23629c96b119b2f1140b18343",
+                "similarity": 0.9938032407968723
+            },
+            {
+                "source": "9cebf7c23629c96b119b2f1140b18343",
+                "target": "28c573360737911dba024849088992cc",
+                "similarity": 0.9938032407968723
+            },
+            {
+                "source": "c28c5390a0fe6c3e9c67a91fd2b26406",
+                "target": "d2542c558cb41a7f3b9957e0c0a5e76f",
+                "similarity": 0.9937752603793505
+            },
+            {
+                "source": "28c573360737911dba024849088992cc",
+                "target": "fa76d9375c8ef26e602072b9487da1ac",
+                "similarity": 0.9937659832401903
+            },
+            {
+                "source": "c28c5390a0fe6c3e9c67a91fd2b26406",
+                "target": "78797a986af21dbcdbbaf91062686cc8",
+                "similarity": 0.9936905032893774
+            },
+            {
+                "source": "517b310c4d75ce558fe3e197828c16e5",
+                "target": "b6a4291a8954205d484cdc41b412db9c",
+                "similarity": 0.9935968850343246
+            },
+            {
+                "source": "28c573360737911dba024849088992cc",
+                "target": "2e2a96c8fce9cb3621bc180ce23cef5c",
+                "similarity": 0.9935962309891033
+            },
+            {
+                "source": "c28c5390a0fe6c3e9c67a91fd2b26406",
+                "target": "d7c29ad9828ff45e7088e71eb54f40ce",
+                "similarity": 0.9935448547844732
+            },
+            {
+                "source": "39befb24f3d65ff7d5d9f7d5d1533a4e",
+                "target": "7293088a6ded37f8b06e8cf559a0d245",
+                "similarity": 0.9933281549089986
+            },
+            {
+                "source": "39befb24f3d65ff7d5d9f7d5d1533a4e",
+                "target": "4761bfb1707e5ca545712ee5650cbc6d",
+                "similarity": 0.9930912945532785
+            },
+            {
+                "source": "9cebf7c23629c96b119b2f1140b18343",
+                "target": "4528563e3f85508911527ffbda77bf81",
+                "similarity": 0.9927581614771538
+            },
+            {
+                "source": "517b310c4d75ce558fe3e197828c16e5",
+                "target": "1721fd93c7920e9a4c7a3efa9dc68f00",
+                "similarity": 0.9924150131163862
+            },
+            {
+                "source": "517b310c4d75ce558fe3e197828c16e5",
+                "target": "a5de558ccdab817dfb24c80b20ba37d1",
+                "similarity": 0.9918318848081967
+            },
+            {
+                "source": "9cebf7c23629c96b119b2f1140b18343",
+                "target": "3a7bdcc3693b283aa8f447da8e011140",
+                "similarity": 0.9914201614306144
+            },
+            {
+                "source": "517b310c4d75ce558fe3e197828c16e5",
+                "target": "8b33ae5ae633c18a722af17aab135eaf",
+                "similarity": 0.9914148862650196
+            },
+            {
+                "source": "9cebf7c23629c96b119b2f1140b18343",
+                "target": "be8a1142d26a0df903ba730d5eeec4b8",
+                "similarity": 0.9913953667283855
+            },
+            {
+                "source": "517b310c4d75ce558fe3e197828c16e5",
+                "target": "1d065e49cdda0badd1d618974213e650",
+                "similarity": 0.9912300943868751
+            },
+            {
+                "source": "517b310c4d75ce558fe3e197828c16e5",
+                "target": "e0d08414c55b2d98cf7ca745c78835a4",
+                "similarity": 0.9912205582707508
+            },
+            {
+                "source": "517b310c4d75ce558fe3e197828c16e5",
+                "target": "2ff984f76dfa94ff7978ac006c480b56",
+                "similarity": 0.9909157688604882
+            },
+            {
+                "source": "517b310c4d75ce558fe3e197828c16e5",
+                "target": "12ea6d4913a74dafc6da2f17b2f954c6",
+                "similarity": 0.9908125832364649
+            },
+            {
+                "source": "9cebf7c23629c96b119b2f1140b18343",
+                "target": "dbe9bd38ded33c96397bd1d0c948a608",
+                "similarity": 0.9907982630431611
+            },
+            {
+                "source": "517b310c4d75ce558fe3e197828c16e5",
+                "target": "e34d6dfb6f7bd4e84a57c78aaefb5da7",
+                "similarity": 0.990454731546726
+            }
+        ],
+        "centroids": [
+            "215865868473ecf27745ea7e0f56ed04"
+        ]
+    },
+    "message": "OK",
+    "status": 200
+}

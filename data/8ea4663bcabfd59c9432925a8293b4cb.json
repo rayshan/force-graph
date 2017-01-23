@@ -1,0 +1,1019 @@
+{
+    "data": {
+        "nodes": [
+            {
+                "cId": "3dde19648c28eb09c40ec801ff908ddd",
+                "title": "Fermentation in winemaking",
+                "sense": "science",
+                "_weight": 363,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "14",
+                        "score": 0.5277515367117434,
+                        "name": "Life Sciences"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_0",
+                        "score": 0.21774558806438343,
+                        "name": "Chemistry"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_3",
+                        "score": 0.09889531760839171,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.0914766124005148,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "subtopic": "17",
+                        "score": 0.06413094521496668,
+                        "name": "Health Care"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 7,
+                        "text": "The process of  fermentation in winemaking turns grape juice into an alcoholic beverage. During fermentation, yeasts transform sugars present in the juice into ethanol and carbon dioxide (as a by-product). In winemaking, the temperature and speed of fermentation are important considerations as well as the levels of oxygen present in the must at the start of the fermentation.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Fermentation in winemaking",
+                        "year": 2015,
+                        "title": "Fermentation in winemaking",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "8ea4663bcabfd59c9432925a8293b4cb",
+                "title": "Winemaking",
+                "sense": "science",
+                "_weight": 116,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "14",
+                        "score": 0.5734877262742545,
+                        "name": "Life Sciences"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_3",
+                        "score": 0.32199818603351726,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "subtopic": "9",
+                        "score": 0.10451408769222818,
+                        "name": "Science"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 0,
+                        "text": "Winemaking or vinification, is the production of wine, starting with selection of the grapes or other produce and ending with bottling the finished wine. Although most wine is made from grapes, it may also be made from other fruits or plants.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Winemaking",
+                        "year": 2016,
+                        "title": "Winemaking",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "03113aae3a3ba6ed96f477be2645593d",
+                "title": "White wine",
+                "sense": "science",
+                "_weight": 204,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "14",
+                        "score": 0.4862014210499507,
+                        "name": "Life Sciences"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_3",
+                        "score": 0.14948361329310286,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_0",
+                        "score": 0.12976404842565079,
+                        "name": "Chemistry"
+                    },
+                    {
+                        "subtopic": "8",
+                        "score": 0.11037279521347658,
+                        "name": "Education"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_4",
+                        "score": 0.06489328951651047,
+                        "name": "Environmental"
+                    },
+                    {
+                        "subtopic": "11",
+                        "score": 0.05928483250130867,
+                        "name": "History"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 1,
+                        "text": "White wine is a wine whose color can be straw-yellow, yellow-green, or yellow-gold coloured.It is produced by the alcoholic fermentation of the non-colored pulp of grapes which may have a white or black skin. It is treated so as to maintain a yellow transparent color in the final product. The wide variety of white wines comes from the large number of varieties, methods of winemaking, and also the ratio of residual sugar.White wine has existed for at least 2500 years.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/White wine",
+                        "year": 2016,
+                        "title": "White wine",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "3f9a6874305359b73c79a77a54e0adf0",
+                "title": "Ripeness in viticulture",
+                "sense": "science",
+                "_weight": 93,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "14",
+                        "score": 0.6262964673848395,
+                        "name": "Life Sciences"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_3",
+                        "score": 0.23419227142372687,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_1",
+                        "score": 0.13951126119143364,
+                        "name": "Ecosystem"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 8,
+                        "text": "In viticulture, ripeness is the completion of the ripening process of wine grapes on the vine which signals the beginning of harvest. What exactly constitutes ripeness will vary depending on what style of wine is being produced (sparkling, still, fortified, rosé, dessert wine, etc.) and what the winemaker and viticulturist personally believe constitutes ripeness.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Ripeness in viticulture",
+                        "year": 2015,
+                        "title": "Ripeness in viticulture",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "59f29ab1f4bca569ab1d0ea135b691b5",
+                "title": "Clarification and stabilization of wine",
+                "sense": "science",
+                "_weight": 37,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "14",
+                        "score": 0.4730422020196747,
+                        "name": "Life Sciences"
+                    },
+                    {
+                        "subtopic": "2",
+                        "score": 0.12913730915070523,
+                        "name": "Biomedicine"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_1",
+                        "score": 0.11169140910228502,
+                        "name": "Ecosystem"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_3",
+                        "score": 0.1033184347082132,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.09348629692173482,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_0",
+                        "score": 0.08932434809738712,
+                        "name": "Chemistry"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 6,
+                        "text": "In winemaking, clarification and stabilization are the processes by which insoluble matter suspended in the wine is removed before bottling. This matter may include dead yeast cells (lees), bacteria, tartrates, proteins, pectins, various tannins and other phenolic compounds, as well as pieces of grape skin, pulp, stems and gums. Clarification and stabilization may involve fining, filtration, centrifugation, flotation, refrigeration, pasteurization, and/or barrel maturation and racking.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Clarification and stabilization of wine",
+                        "year": 2015,
+                        "title": "Clarification and stabilization of wine",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "ba306ae9c9e418a69269e15d8b5ff120",
+                "title": "Acids in wine",
+                "sense": "science",
+                "_weight": 43,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "14",
+                        "score": 0.4774077434779799,
+                        "name": "Life Sciences"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_3",
+                        "score": 0.16141026283378437,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "subtopic": "2",
+                        "score": 0.14980631743279718,
+                        "name": "Biomedicine"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_0",
+                        "score": 0.10649660686385484,
+                        "name": "Chemistry"
+                    },
+                    {
+                        "subtopic": "9",
+                        "score": 0.10487906939158384,
+                        "name": "Science"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 5,
+                        "text": "The acids in wine are an important component in both winemaking and the finished product of wine. They are present in both grapes and wine, having direct influences on the color, balance and taste of the wine as well as the growth and vitality of yeast during fermentation and protecting the wine from bacteria.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Acids in wine",
+                        "year": 2015,
+                        "title": "Acids in wine",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "3776cd4e69914cc3189abcddb8396ae2",
+                "title": "Cabernet Sauvignon",
+                "sense": "science",
+                "_weight": 207,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "14",
+                        "score": 0.5305372256306312,
+                        "name": "Life Sciences"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_3",
+                        "score": 0.2495500858469182,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "subtopic": "1",
+                        "score": 0.12688944232126428,
+                        "name": "Nature"
+                    },
+                    {
+                        "subtopic": "11",
+                        "score": 0.09302324620118627,
+                        "name": "History"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 10,
+                        "text": "Cabernet Sauvignon (French: [kabɛʁnɛ soviˈɲɔ̃]) is one of the world's most widely recognized red wine grape varieties. It is grown in nearly every major wine producing country among a diverse spectrum of climates from Canada's Okanagan Valley to Lebanon's Beqaa Valley. Cabernet Sauvignon became internationally recognized through its prominence in Bordeaux wines where it is often blended with Merlot and Cabernet Franc.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Cabernet Sauvignon",
+                        "year": 2016,
+                        "title": "Cabernet Sauvignon",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "title": "Malolactic fermentation",
+                "sense": "science",
+                "_weight": 57,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "14",
+                        "score": 0.7351099853622237,
+                        "name": "Life Sciences"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_3",
+                        "score": 0.26489001463777634,
+                        "name": "Agriculture"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 2,
+                        "text": "Malolactic fermentation (also known as malolactic conversion or MLF) is a process in winemaking in which tart-tasting malic acid, naturally present in grape must, is converted to softer-tasting lactic acid. Malolactic fermentation is most often performed as a secondary fermentation shortly after the end of the primary fermentation, but can sometimes run concurrently with it.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Malolactic fermentation",
+                        "year": 2016,
+                        "title": "Malolactic fermentation",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "80f147e416b548453bd243d159f1e2f4",
+                "title": "Phenolic content in wine",
+                "sense": "science",
+                "_weight": 28,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "14",
+                        "score": 0.6206565403992353,
+                        "name": "Life Sciences"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_1",
+                        "score": 0.37934345960076465,
+                        "name": "Ecosystem"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 9,
+                        "text": "The phenolic content in wine refers to the phenolic compounds—natural phenol and polyphenols—in wine, which include a large group of several hundred chemical compounds that affect the taste, color and mouthfeel of wine. These compounds include phenolic acids, stilbenoids, flavonols, dihydroflavonols, anthocyanins, flavanol monomers (catechins) and flavanol polymers (proanthocyanidins).",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Phenolic content in wine",
+                        "year": 2016,
+                        "title": "Phenolic content in wine",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "0faf7bf8e9fc4b556b09eee935eecead",
+                "title": "Yeast in winemaking",
+                "sense": "science",
+                "_weight": 36,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "14",
+                        "score": 0.6345219249635268,
+                        "name": "Life Sciences"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_0",
+                        "score": 0.2618891900089921,
+                        "name": "Chemistry"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_3",
+                        "score": 0.10358888502748098,
+                        "name": "Agriculture"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 3,
+                        "text": "The role of yeast in winemaking is the most important element that distinguishes wine from grape juice. In the absence of oxygen yeast converts the sugars of wine grapes into alcohol and carbon dioxide through the process of fermentation. The more sugars in the grapes, the higher the potential alcohol level of the wine if the yeast are allowed to carry out fermentation to dryness.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Yeast in winemaking",
+                        "year": 2015,
+                        "title": "Yeast in winemaking",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "0cdd3ec3701bb6cbed75fda61aec3084",
+                "title": "Red wine",
+                "sense": "science",
+                "_weight": 264,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "14",
+                        "score": 0.5909609388274996,
+                        "name": "Life Sciences"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_3",
+                        "score": 0.18623293113003722,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_1",
+                        "score": 0.11796975749122389,
+                        "name": "Ecosystem"
+                    },
+                    {
+                        "topic": "14",
+                        "subtopic": "14_0",
+                        "score": 0.10483637255123936,
+                        "name": "Chemistry"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 4,
+                        "text": "Red wine is a type of wine made from dark-coloured (black) grape varieties. The actual colour of the wine can range from intense violet, typical of young wines, through to brick red for mature wines and brown for older red wines.The juice from most purple grapes is greenish-white; the red colour comes from anthocyan pigments (also called anthocyanins) present in the skin of the grape; exceptions are the relatively uncommon teinturier varieties, which produce a red colored juice.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Red wine",
+                        "year": 2016,
+                        "title": "Red wine",
+                        "label": "Source"
+                    }
+                ]
+            }
+        ],
+        "edges": [
+            {
+                "source": "0faf7bf8e9fc4b556b09eee935eecead",
+                "target": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "similarity": 0.9990544293974929
+            },
+            {
+                "source": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "target": "0faf7bf8e9fc4b556b09eee935eecead",
+                "similarity": 0.9990544293974929
+            },
+            {
+                "source": "3776cd4e69914cc3189abcddb8396ae2",
+                "target": "7eb047775481e7d4d5e50e25a9501347",
+                "similarity": 0.9988911385163527
+            },
+            {
+                "source": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "target": "882c084d725a251533c858ade5cbda5d",
+                "similarity": 0.9988341687541363
+            },
+            {
+                "source": "80f147e416b548453bd243d159f1e2f4",
+                "target": "40e1a760c576edc6c91bac60881d6b56",
+                "similarity": 0.9987020870534096
+            },
+            {
+                "source": "ba306ae9c9e418a69269e15d8b5ff120",
+                "target": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "similarity": 0.9986422128499953
+            },
+            {
+                "source": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "target": "ba306ae9c9e418a69269e15d8b5ff120",
+                "similarity": 0.9986422128499953
+            },
+            {
+                "source": "3dde19648c28eb09c40ec801ff908ddd",
+                "target": "0faf7bf8e9fc4b556b09eee935eecead",
+                "similarity": 0.9986323671366389
+            },
+            {
+                "source": "0faf7bf8e9fc4b556b09eee935eecead",
+                "target": "3dde19648c28eb09c40ec801ff908ddd",
+                "similarity": 0.9986323671366389
+            },
+            {
+                "source": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "target": "4e2317d048080a285b564c32004099a8",
+                "similarity": 0.9986155657522116
+            },
+            {
+                "source": "3776cd4e69914cc3189abcddb8396ae2",
+                "target": "8145b23bd77456648aadb0420ccb6a1d",
+                "similarity": 0.9985269557631526
+            },
+            {
+                "source": "3776cd4e69914cc3189abcddb8396ae2",
+                "target": "1e2a655ef6ba2081ee6f199eaac874bb",
+                "similarity": 0.9985171549276828
+            },
+            {
+                "source": "80f147e416b548453bd243d159f1e2f4",
+                "target": "cfbf20cbe81f9bcaab5496b42a0ad77e",
+                "similarity": 0.9984951175111946
+            },
+            {
+                "source": "3776cd4e69914cc3189abcddb8396ae2",
+                "target": "dfea0465138445e83e229738a657eb63",
+                "similarity": 0.9984474192718953
+            },
+            {
+                "source": "3776cd4e69914cc3189abcddb8396ae2",
+                "target": "74ed1b394c40001c9af04f8cef738175",
+                "similarity": 0.9983403188507844
+            },
+            {
+                "source": "03113aae3a3ba6ed96f477be2645593d",
+                "target": "8ea4663bcabfd59c9432925a8293b4cb",
+                "similarity": 0.9982892459773608
+            },
+            {
+                "source": "8ea4663bcabfd59c9432925a8293b4cb",
+                "target": "03113aae3a3ba6ed96f477be2645593d",
+                "similarity": 0.9982892459773608
+            },
+            {
+                "source": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "target": "8ea4663bcabfd59c9432925a8293b4cb",
+                "similarity": 0.9982857308580003
+            },
+            {
+                "source": "8ea4663bcabfd59c9432925a8293b4cb",
+                "target": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "similarity": 0.9982857308580003
+            },
+            {
+                "source": "0faf7bf8e9fc4b556b09eee935eecead",
+                "target": "4e2317d048080a285b564c32004099a8",
+                "similarity": 0.9982758420746887
+            },
+            {
+                "source": "3776cd4e69914cc3189abcddb8396ae2",
+                "target": "76c69475b712604355f1a2197f81a940",
+                "similarity": 0.9982490135251643
+            },
+            {
+                "source": "3776cd4e69914cc3189abcddb8396ae2",
+                "target": "d446e2833ef3c67a2ae844b7a21b881b",
+                "similarity": 0.9982360349489077
+            },
+            {
+                "source": "8ea4663bcabfd59c9432925a8293b4cb",
+                "target": "0faf7bf8e9fc4b556b09eee935eecead",
+                "similarity": 0.9981868923730324
+            },
+            {
+                "source": "0faf7bf8e9fc4b556b09eee935eecead",
+                "target": "8ea4663bcabfd59c9432925a8293b4cb",
+                "similarity": 0.9981868923730324
+            },
+            {
+                "source": "3776cd4e69914cc3189abcddb8396ae2",
+                "target": "680a733ea53ea1eb1c3cb1f6074768bf",
+                "similarity": 0.9981795188896813
+            },
+            {
+                "source": "03113aae3a3ba6ed96f477be2645593d",
+                "target": "8145b23bd77456648aadb0420ccb6a1d",
+                "similarity": 0.9981549523744485
+            },
+            {
+                "source": "0faf7bf8e9fc4b556b09eee935eecead",
+                "target": "882c084d725a251533c858ade5cbda5d",
+                "similarity": 0.9981546819521441
+            },
+            {
+                "source": "0cdd3ec3701bb6cbed75fda61aec3084",
+                "target": "8ea4663bcabfd59c9432925a8293b4cb",
+                "similarity": 0.9981297721827381
+            },
+            {
+                "source": "8ea4663bcabfd59c9432925a8293b4cb",
+                "target": "0cdd3ec3701bb6cbed75fda61aec3084",
+                "similarity": 0.9981297721827381
+            },
+            {
+                "source": "3776cd4e69914cc3189abcddb8396ae2",
+                "target": "a29200cb1ab7f443a2562c72fe81a463",
+                "similarity": 0.9981030273772897
+            },
+            {
+                "source": "3776cd4e69914cc3189abcddb8396ae2",
+                "target": "074f76657159f244d5b8fff4aa201b54",
+                "similarity": 0.9980989834892433
+            },
+            {
+                "source": "03113aae3a3ba6ed96f477be2645593d",
+                "target": "407d70b903dc8e4f8ca9bd19e78f049f",
+                "similarity": 0.9980974531491346
+            },
+            {
+                "source": "03113aae3a3ba6ed96f477be2645593d",
+                "target": "247a13ea486bfe18d90a79fc161f2ac1",
+                "similarity": 0.9980244236936815
+            },
+            {
+                "source": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "target": "03113aae3a3ba6ed96f477be2645593d",
+                "similarity": 0.9979817053059015
+            },
+            {
+                "source": "03113aae3a3ba6ed96f477be2645593d",
+                "target": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "similarity": 0.9979817053059015
+            },
+            {
+                "source": "80f147e416b548453bd243d159f1e2f4",
+                "target": "f310ae366e7d654ed4fbd800e4eb6bb8",
+                "similarity": 0.9979674061743578
+            },
+            {
+                "source": "0cdd3ec3701bb6cbed75fda61aec3084",
+                "target": "b63179d2508f89d06ad706ba170f97d8",
+                "similarity": 0.9979080638079683
+            },
+            {
+                "source": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "target": "3dde19648c28eb09c40ec801ff908ddd",
+                "similarity": 0.9978524756752092
+            },
+            {
+                "source": "3dde19648c28eb09c40ec801ff908ddd",
+                "target": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "similarity": 0.9978524756752092
+            },
+            {
+                "source": "8ea4663bcabfd59c9432925a8293b4cb",
+                "target": "ba306ae9c9e418a69269e15d8b5ff120",
+                "similarity": 0.997825859197286
+            },
+            {
+                "source": "ba306ae9c9e418a69269e15d8b5ff120",
+                "target": "8ea4663bcabfd59c9432925a8293b4cb",
+                "similarity": 0.997825859197286
+            },
+            {
+                "source": "0cdd3ec3701bb6cbed75fda61aec3084",
+                "target": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "similarity": 0.9978091417918834
+            },
+            {
+                "source": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "target": "0cdd3ec3701bb6cbed75fda61aec3084",
+                "similarity": 0.9978091417918834
+            },
+            {
+                "source": "03113aae3a3ba6ed96f477be2645593d",
+                "target": "f5074d017dcb6e2361afb8ef8e32c6d7",
+                "similarity": 0.9977913953226915
+            },
+            {
+                "source": "03113aae3a3ba6ed96f477be2645593d",
+                "target": "54be345330259eb29a0fc9d06b71fd2f",
+                "similarity": 0.9977822457114782
+            },
+            {
+                "source": "03113aae3a3ba6ed96f477be2645593d",
+                "target": "1bcea407a2ff2f3e01b1861f99e79c7c",
+                "similarity": 0.9977777442669524
+            },
+            {
+                "source": "ba306ae9c9e418a69269e15d8b5ff120",
+                "target": "882c084d725a251533c858ade5cbda5d",
+                "similarity": 0.9977625979779164
+            },
+            {
+                "source": "03113aae3a3ba6ed96f477be2645593d",
+                "target": "5de8dd50b158298b327e4fbea376c205",
+                "similarity": 0.997715840986243
+            },
+            {
+                "source": "80f147e416b548453bd243d159f1e2f4",
+                "target": "3776cd4e69914cc3189abcddb8396ae2",
+                "similarity": 0.9976374623509435
+            },
+            {
+                "source": "03113aae3a3ba6ed96f477be2645593d",
+                "target": "74ed1b394c40001c9af04f8cef738175",
+                "similarity": 0.9975894671911031
+            },
+            {
+                "source": "0faf7bf8e9fc4b556b09eee935eecead",
+                "target": "53d9dbb8a623f37d4fdbc9d57bf2d9b4",
+                "similarity": 0.9975447011807135
+            },
+            {
+                "source": "80f147e416b548453bd243d159f1e2f4",
+                "target": "863d5bd804823353a894c2129814ad95",
+                "similarity": 0.9974727767898225
+            },
+            {
+                "source": "80f147e416b548453bd243d159f1e2f4",
+                "target": "b6d30b2f70b7653cfe923a40b8b6350d",
+                "similarity": 0.9974502042040088
+            },
+            {
+                "source": "8ea4663bcabfd59c9432925a8293b4cb",
+                "target": "59f29ab1f4bca569ab1d0ea135b691b5",
+                "similarity": 0.9974183715972594
+            },
+            {
+                "source": "59f29ab1f4bca569ab1d0ea135b691b5",
+                "target": "8ea4663bcabfd59c9432925a8293b4cb",
+                "similarity": 0.9974183715972594
+            },
+            {
+                "source": "ba306ae9c9e418a69269e15d8b5ff120",
+                "target": "03113aae3a3ba6ed96f477be2645593d",
+                "similarity": 0.9973790628667174
+            },
+            {
+                "source": "3dde19648c28eb09c40ec801ff908ddd",
+                "target": "882c084d725a251533c858ade5cbda5d",
+                "similarity": 0.9973638321628934
+            },
+            {
+                "source": "ba306ae9c9e418a69269e15d8b5ff120",
+                "target": "3f9a6874305359b73c79a77a54e0adf0",
+                "similarity": 0.997340856726849
+            },
+            {
+                "source": "3f9a6874305359b73c79a77a54e0adf0",
+                "target": "ba306ae9c9e418a69269e15d8b5ff120",
+                "similarity": 0.997340856726849
+            },
+            {
+                "source": "80f147e416b548453bd243d159f1e2f4",
+                "target": "642e3b04d868f773db974ddd87181d51",
+                "similarity": 0.9973383453488103
+            },
+            {
+                "source": "8ea4663bcabfd59c9432925a8293b4cb",
+                "target": "3dde19648c28eb09c40ec801ff908ddd",
+                "similarity": 0.997332205016611
+            },
+            {
+                "source": "3dde19648c28eb09c40ec801ff908ddd",
+                "target": "8ea4663bcabfd59c9432925a8293b4cb",
+                "similarity": 0.997332205016611
+            },
+            {
+                "source": "80f147e416b548453bd243d159f1e2f4",
+                "target": "03113aae3a3ba6ed96f477be2645593d",
+                "similarity": 0.9972883591465149
+            },
+            {
+                "source": "8ea4663bcabfd59c9432925a8293b4cb",
+                "target": "3f9a6874305359b73c79a77a54e0adf0",
+                "similarity": 0.9972429201276215
+            },
+            {
+                "source": "3f9a6874305359b73c79a77a54e0adf0",
+                "target": "8ea4663bcabfd59c9432925a8293b4cb",
+                "similarity": 0.9972429201276215
+            },
+            {
+                "source": "0faf7bf8e9fc4b556b09eee935eecead",
+                "target": "b63179d2508f89d06ad706ba170f97d8",
+                "similarity": 0.9972365268480561
+            },
+            {
+                "source": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "target": "53d9dbb8a623f37d4fdbc9d57bf2d9b4",
+                "similarity": 0.9972227639063489
+            },
+            {
+                "source": "80f147e416b548453bd243d159f1e2f4",
+                "target": "c051e8cc54f4c90edbc872c3ad879b99",
+                "similarity": 0.9972154025290761
+            },
+            {
+                "source": "59f29ab1f4bca569ab1d0ea135b691b5",
+                "target": "03113aae3a3ba6ed96f477be2645593d",
+                "similarity": 0.997140794477187
+            },
+            {
+                "source": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "target": "fa6817608d5c3a9954139280a6de347d",
+                "similarity": 0.9971086299201496
+            },
+            {
+                "source": "80f147e416b548453bd243d159f1e2f4",
+                "target": "f41542f855dd4000c5828405aa707ff3",
+                "similarity": 0.9970995513678497
+            },
+            {
+                "source": "0faf7bf8e9fc4b556b09eee935eecead",
+                "target": "03113aae3a3ba6ed96f477be2645593d",
+                "similarity": 0.9970612209354216
+            },
+            {
+                "source": "0faf7bf8e9fc4b556b09eee935eecead",
+                "target": "3f9a6874305359b73c79a77a54e0adf0",
+                "similarity": 0.9969849721763693
+            },
+            {
+                "source": "3f9a6874305359b73c79a77a54e0adf0",
+                "target": "0faf7bf8e9fc4b556b09eee935eecead",
+                "similarity": 0.9969849721763693
+            },
+            {
+                "source": "3f9a6874305359b73c79a77a54e0adf0",
+                "target": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "similarity": 0.9969739930443927
+            },
+            {
+                "source": "0faf7bf8e9fc4b556b09eee935eecead",
+                "target": "0cdd3ec3701bb6cbed75fda61aec3084",
+                "similarity": 0.9969475011329383
+            },
+            {
+                "source": "0cdd3ec3701bb6cbed75fda61aec3084",
+                "target": "0faf7bf8e9fc4b556b09eee935eecead",
+                "similarity": 0.9969475011329383
+            },
+            {
+                "source": "8ea4663bcabfd59c9432925a8293b4cb",
+                "target": "80f147e416b548453bd243d159f1e2f4",
+                "similarity": 0.9969080962923674
+            },
+            {
+                "source": "59f29ab1f4bca569ab1d0ea135b691b5",
+                "target": "59ebc092b65bcf5907bf0182d6f67f4a",
+                "similarity": 0.9968751683050804
+            },
+            {
+                "source": "8ea4663bcabfd59c9432925a8293b4cb",
+                "target": "3776cd4e69914cc3189abcddb8396ae2",
+                "similarity": 0.9968362899730617
+            },
+            {
+                "source": "ba306ae9c9e418a69269e15d8b5ff120",
+                "target": "0faf7bf8e9fc4b556b09eee935eecead",
+                "similarity": 0.9967139170335152
+            },
+            {
+                "source": "3f9a6874305359b73c79a77a54e0adf0",
+                "target": "80f147e416b548453bd243d159f1e2f4",
+                "similarity": 0.9966537718443707
+            },
+            {
+                "source": "3dde19648c28eb09c40ec801ff908ddd",
+                "target": "03113aae3a3ba6ed96f477be2645593d",
+                "similarity": 0.9965790761586891
+            },
+            {
+                "source": "59f29ab1f4bca569ab1d0ea135b691b5",
+                "target": "ba306ae9c9e418a69269e15d8b5ff120",
+                "similarity": 0.996535324886448
+            },
+            {
+                "source": "ba306ae9c9e418a69269e15d8b5ff120",
+                "target": "59f29ab1f4bca569ab1d0ea135b691b5",
+                "similarity": 0.996535324886448
+            },
+            {
+                "source": "3f9a6874305359b73c79a77a54e0adf0",
+                "target": "03113aae3a3ba6ed96f477be2645593d",
+                "similarity": 0.9964455148674871
+            },
+            {
+                "source": "0cdd3ec3701bb6cbed75fda61aec3084",
+                "target": "03113aae3a3ba6ed96f477be2645593d",
+                "similarity": 0.9964164925764601
+            },
+            {
+                "source": "3f9a6874305359b73c79a77a54e0adf0",
+                "target": "8145b23bd77456648aadb0420ccb6a1d",
+                "similarity": 0.9964145376415815
+            },
+            {
+                "source": "59f29ab1f4bca569ab1d0ea135b691b5",
+                "target": "b63179d2508f89d06ad706ba170f97d8",
+                "similarity": 0.9963607771168227
+            },
+            {
+                "source": "59f29ab1f4bca569ab1d0ea135b691b5",
+                "target": "882c084d725a251533c858ade5cbda5d",
+                "similarity": 0.9962740084890301
+            },
+            {
+                "source": "0cdd3ec3701bb6cbed75fda61aec3084",
+                "target": "4e2317d048080a285b564c32004099a8",
+                "similarity": 0.9961453957722138
+            },
+            {
+                "source": "ba306ae9c9e418a69269e15d8b5ff120",
+                "target": "0cdd3ec3701bb6cbed75fda61aec3084",
+                "similarity": 0.9960002701040493
+            },
+            {
+                "source": "0cdd3ec3701bb6cbed75fda61aec3084",
+                "target": "ba306ae9c9e418a69269e15d8b5ff120",
+                "similarity": 0.9960002701040493
+            },
+            {
+                "source": "3f9a6874305359b73c79a77a54e0adf0",
+                "target": "07df74cd0fa504d6cb284424d417ae75",
+                "similarity": 0.9959932275460159
+            },
+            {
+                "source": "59f29ab1f4bca569ab1d0ea135b691b5",
+                "target": "109ff34bc6534e77c7acddfd0e29ab4f",
+                "similarity": 0.9958501248127473
+            },
+            {
+                "source": "3f9a6874305359b73c79a77a54e0adf0",
+                "target": "6e8b329c8b90600d251d180d2cdea959",
+                "similarity": 0.9958474080508608
+            },
+            {
+                "source": "3dde19648c28eb09c40ec801ff908ddd",
+                "target": "247a13ea486bfe18d90a79fc161f2ac1",
+                "similarity": 0.9958236072480886
+            },
+            {
+                "source": "59f29ab1f4bca569ab1d0ea135b691b5",
+                "target": "0faf7bf8e9fc4b556b09eee935eecead",
+                "similarity": 0.9958028453400353
+            },
+            {
+                "source": "ba306ae9c9e418a69269e15d8b5ff120",
+                "target": "f5074d017dcb6e2361afb8ef8e32c6d7",
+                "similarity": 0.995728791152186
+            },
+            {
+                "source": "ba306ae9c9e418a69269e15d8b5ff120",
+                "target": "392f4abf34d8ce646f59678516723d78",
+                "similarity": 0.9957119045538279
+            },
+            {
+                "source": "0cdd3ec3701bb6cbed75fda61aec3084",
+                "target": "59f29ab1f4bca569ab1d0ea135b691b5",
+                "similarity": 0.9956719614721696
+            },
+            {
+                "source": "59f29ab1f4bca569ab1d0ea135b691b5",
+                "target": "0cdd3ec3701bb6cbed75fda61aec3084",
+                "similarity": 0.9956719614721696
+            },
+            {
+                "source": "3f9a6874305359b73c79a77a54e0adf0",
+                "target": "6760611f87f87f4065278c9bae3a06bd",
+                "similarity": 0.9956497636110795
+            },
+            {
+                "source": "3dde19648c28eb09c40ec801ff908ddd",
+                "target": "8145b23bd77456648aadb0420ccb6a1d",
+                "similarity": 0.9955780125912842
+            },
+            {
+                "source": "59f29ab1f4bca569ab1d0ea135b691b5",
+                "target": "9aa10b540640403ae48700bac3ecfcbc",
+                "similarity": 0.9954546403357087
+            },
+            {
+                "source": "3dde19648c28eb09c40ec801ff908ddd",
+                "target": "3f9a6874305359b73c79a77a54e0adf0",
+                "similarity": 0.9953610656269218
+            },
+            {
+                "source": "3dde19648c28eb09c40ec801ff908ddd",
+                "target": "407d70b903dc8e4f8ca9bd19e78f049f",
+                "similarity": 0.9952095294640356
+            },
+            {
+                "source": "0cdd3ec3701bb6cbed75fda61aec3084",
+                "target": "80f147e416b548453bd243d159f1e2f4",
+                "similarity": 0.9951265105633031
+            },
+            {
+                "source": "3dde19648c28eb09c40ec801ff908ddd",
+                "target": "ba306ae9c9e418a69269e15d8b5ff120",
+                "similarity": 0.9950367878351778
+            },
+            {
+                "source": "0cdd3ec3701bb6cbed75fda61aec3084",
+                "target": "b1b3c5090a6d76a924f5509dd43b72d9",
+                "similarity": 0.9950366524563007
+            }
+        ],
+        "centroids": [
+            "8ea4663bcabfd59c9432925a8293b4cb"
+        ]
+    },
+    "message": "OK",
+    "status": 200
+}

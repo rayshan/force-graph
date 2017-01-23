@@ -1,27 +1,61 @@
 :root {
-    font-size: 10px;
+    font-size: 12px;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
 }
 
 body {
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
     font-size: 1rem;
     font-weight: 300;
+    letter-spacing: 0.02rem;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
     font-feature-settings: 'liga';
     margin: 0;
     user-select: none;
+
+    transform-style: preserve-3d;
+    transform: perspective(1000px);
+    position: relative;
 }
 
-#graph {
+.graph {
     border: 1px solid lightgray;
-    width: 100vw;
-    height: 100vh;
+    width: 90vw;
+    height: 90vh;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 5vh;
+    margin: 0 auto;
+
+    transform-origin: 50% 10%;
+    transition: transform 300ms cubic-bezier(0.23, 1, 0.32, 1), opacity 250ms;
+    will-change: transform, opacity;
+}
+
+.graph.is-3d {
+    transform: rotateX(45deg) scale(0.5);
+    background: hsla(0, 0%, 90%, 0.5);
+}
+
+.graph.is-3d:hover {
+    border: 1px solid #2196F3;
+    background: hsla(207, 90%, 54%, 0.2);
+}
+
+.graph.is-hidden {
+    opacity: 0 !important;
 }
 
 text {
     cursor: default;
+    font-size: 0.85rem;
 }
 
 .links line {
@@ -30,17 +64,59 @@ text {
 }
 
 .nodes circle {
+    fill: gray;
+    stroke: white;
+    stroke-width: 3;
+}
+
+.primary-concept circle {
+    fill: black;
+    stroke: white;
+    stroke-width: 5;
+}
+
+.foci circle {
     fill: #2196F3;
-    stroke: #FFF;
-    stroke-width: 2;
 }
 
-.centroid circle {
-    fill: #FF9800;
-    stroke: #FFF;
-    stroke-width: 2;
-}
-
-.centroid text {
+.primary-concept text {
     font-weight: bold;
+}
+
+#graph-controls {
+    position: fixed;
+    right: 3rem;
+    top: 3rem;
+    display: flex;
+    flex-direction: column;
+    z-index: 999;
+}
+
+#graph-controls > * + * {
+    margin-top: 1rem;
+}
+
+#graph-controls .select-control {
+    width: 20rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#activity-indicator {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    width: 100%;
+    height: 2.5rem;
+    background: rgba(0, 0, 0, 0.1);
+    font-size: 1.5rem;
+    display: flex;
+    font-weight: normal;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 100ms;
 }

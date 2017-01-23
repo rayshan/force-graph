@@ -1,0 +1,987 @@
+{
+    "data": {
+        "nodes": [
+            {
+                "cId": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "title": "Netscape Communicator",
+                "sense": "computers_and_internet",
+                "_weight": 114,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.633501486092877,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.36649851390712296,
+                        "name": "Internet"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 8,
+                        "text": "Netscape Communicator (or Netscape 4) is a discontinued Internet suite produced by Netscape Communications Corporation, and was the fourth major release in the Netscape line of browsers. It was first in beta in 1996 and was finally released in June 1997. Netscape Communicator addressed the problem of Netscape Navigator 3.x being used as both the name of the suite and the browser contained within it by renaming the suite to Netscape Communicator.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Netscape Communicator",
+                        "year": 2016,
+                        "title": "Netscape Communicator",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "603ef67d2f2e497a4c31cb3c5a8f0b3a",
+                "title": "Netscape Navigator 9",
+                "sense": "computers_and_internet",
+                "_weight": 13,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.5841338659726123,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.32782252541442314,
+                        "name": "Internet"
+                    },
+                    {
+                        "subtopic": "0",
+                        "score": 0.08804360861296447,
+                        "name": "Science"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 10,
+                        "text": "Netscape Navigator 9 is a discontinued web browser that was produced by the Netscape Communications division of parent AOL, first announced on January 23, 2007. It was the ninth major release of the Netscape line of browsers. After AOL outsourced the development of Netscape Browser 8 to Mercurial Communications in 2004, Netscape Navigator 9 marked the first Netscape browser to be produced in-house since the Netscape 7 suite.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Netscape Navigator 9",
+                        "year": 2016,
+                        "title": "Netscape Navigator 9",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "121d4d3fbc18c44af212126b99d569af",
+                "title": "Netscape 7",
+                "sense": "computers_and_internet",
+                "_weight": 19,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.5472155872885484,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.2822421338019259,
+                        "name": "Internet"
+                    },
+                    {
+                        "subtopic": "0",
+                        "score": 0.08950862693429508,
+                        "name": "Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_1",
+                        "score": 0.08103365197523071,
+                        "name": "Machine Learning"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 4,
+                        "text": "Netscape 7 is a discontinued Internet suite developed by Netscape Communications Corporation, and was the seventh major release of the Netscape series of browsers. It is the successor of Netscape 6, and was developed in-house by AOL. It was released on August 29, 2002 and is based on Mozilla Application Suite 1.0.The browser in Netscape 7 was originally superseded by Netscape Browser (version 8) in 2005, which like its name suggests was simply a web browser and not a full Internet suite.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Netscape 7",
+                        "year": 2016,
+                        "title": "Netscape 7",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "c98269563aae1fc073b7fc0372efa1a1",
+                "title": "Netscape",
+                "sense": "computers_and_internet",
+                "_weight": 320,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.41714218903987954,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.26905933550301336,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.21652901489647514,
+                        "name": "Internet"
+                    },
+                    {
+                        "topic": "13",
+                        "subtopic": "13_4",
+                        "score": 0.097269460560632,
+                        "name": "Industries"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 0,
+                        "text": "Netscape Communications (formerly known as Netscape Communications Corporation and commonly known as Netscape) is an American computer services company, best known for Netscape Navigator, its web browser. When it was an independent company, its headquarters were in Mountain View, California.Netscape's web browser was once dominant in terms of usage share, but lost most of that share to Internet Explorer during the so-called first browser war.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Netscape",
+                        "year": 2016,
+                        "title": "Netscape",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "bd035c011b809d406e53083cb2d19cff",
+                "title": "Netscape Navigator",
+                "sense": "computers_and_internet",
+                "_weight": 93,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.4518849211992228,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.2508158531689069,
+                        "name": "Internet"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.18956873140299474,
+                        "name": "Business & Economy"
+                    },
+                    {
+                        "subtopic": "6",
+                        "score": 0.10773049422887548,
+                        "name": "Engineering"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 2,
+                        "text": "Netscape Navigator is a discontinued proprietary web browser, and the original browser of the Netscape line, from versions 1 to 4.08, and 9.x. It was the flagship product of the Netscape Communications Corp and was the dominant web browser in terms of usage share in the 1990s, but by 2002 its usage had almost disappeared.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Netscape Navigator",
+                        "year": 2015,
+                        "title": "Netscape Navigator",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "d38fc79040c0fb95d810cd165e946094",
+                "title": "Netscape Mail & Newsgroups",
+                "sense": "computers_and_internet",
+                "_weight": 1,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.624789128501435,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.19559846436458092,
+                        "name": "Internet"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_1",
+                        "score": 0.17961240713398402,
+                        "name": "Machine Learning"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 3,
+                        "text": "Netscape Mail and Newsgroups, commonly known as just Netscape Mail, was an email and news client produced by Netscape Communications Corporation as part of the Netscape series of suites between versions 4.5 to 7.2. It was previously two separate programs known as  Netscape Messenger and Netscape Collabra between Netscape Communicator 4 and 4.5.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Netscape Mail & Newsgroups",
+                        "year": 2015,
+                        "title": "Netscape Mail & Newsgroups",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "title": "Netscape (web browser)",
+                "sense": "computers_and_internet",
+                "_weight": 294,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.5470788306016242,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.2987305243839428,
+                        "name": "Internet"
+                    },
+                    {
+                        "subtopic": "13",
+                        "score": 0.15419064501443294,
+                        "name": "Business & Economy"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 1,
+                        "text": "Netscape was the general name for a series of web browsers originally produced by Netscape Communications Corporation, now a subsidiary of AOL. The original browser was once the dominant browser in terms of usage share, but as a result of the first browser war, it lost virtually all of its share to Internet Explorer.Netscape was discontinued and support for all Netscape browsers and client products was terminated on March 1, 2008.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Netscape (web browser)",
+                        "year": 2016,
+                        "title": "Netscape (web browser)",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "8e676f1894a0f6d94c9d031608d32dd1",
+                "title": "Mozilla Application Suite",
+                "sense": "computers_and_internet",
+                "_weight": 114,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.5767724852525843,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.3132730735808703,
+                        "name": "Internet"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_4",
+                        "score": 0.056756036681429714,
+                        "name": "Networking"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_1",
+                        "score": 0.05319840448511564,
+                        "name": "Machine Learning"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 7,
+                        "text": "The Mozilla Application Suite (originally known as Mozilla, marketed as the Mozilla Suite) is a discontinued cross-platform integrated Internet suite. Its development was initiated by Netscape Communications Corporation, before their acquisition by AOL. It was based on the source code of Netscape Communicator. The development was spearheaded by the Mozilla Organization from 1998 to 2003, and by the Mozilla Foundation from 2003 to 2006.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Mozilla Application Suite",
+                        "year": 2015,
+                        "title": "Mozilla Application Suite",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "dc542c16ef6f1a9376de5fb6b26de495",
+                "title": "Netscape 6",
+                "sense": "computers_and_internet",
+                "_weight": 11,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.5727068510121289,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.32547594230808635,
+                        "name": "Internet"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_4",
+                        "score": 0.05153955029999486,
+                        "name": "Networking"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_1",
+                        "score": 0.050277656379789884,
+                        "name": "Machine Learning"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 5,
+                        "text": "Netscape 6 is a discontinued Internet suite developed by Netscape Communications Corporation, and was the sixth major release of the Netscape series of browsers. It superseded Netscape Communicator (4.x), as the release of Netscape Communicator 5 was scrapped.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Netscape 6",
+                        "year": 2016,
+                        "title": "Netscape 6",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "7e04a1b0282b57a1e9b67ac098091488",
+                "title": "Gecko (software)",
+                "sense": "computers_and_internet",
+                "_weight": 69,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.524149004470421,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.21444226531839544,
+                        "name": "Internet"
+                    },
+                    {
+                        "subtopic": "1",
+                        "score": 0.149488945809523,
+                        "name": "Nature"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_1",
+                        "score": 0.11191978440166063,
+                        "name": "Machine Learning"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 6,
+                        "text": "Gecko is a web browser engine used in many applications developed by Mozilla Foundation and the Mozilla Corporation (notably the Firefox web browser including its mobile version and their e-mail client Thunderbird), as well as in many other open source software projects.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Gecko (software)",
+                        "year": 2016,
+                        "title": "Gecko (software)",
+                        "label": "Source"
+                    }
+                ]
+            },
+            {
+                "cId": "d83016dd56e9bf9199d175870ff56ee7",
+                "title": "Mozilla",
+                "sense": "computers_and_internet",
+                "_weight": 374,
+                "source": "wikipedia",
+                "topics": [
+                    {
+                        "subtopic": "5",
+                        "score": 0.6377191291474099,
+                        "name": "Computer Science"
+                    },
+                    {
+                        "topic": "5",
+                        "subtopic": "5_3",
+                        "score": 0.3622808708525901,
+                        "name": "Internet"
+                    }
+                ],
+                "descriptions": [
+                    {
+                        "id": 9,
+                        "text": "Mozilla is a free-software community, created in 1998 by members of Netscape. The Mozilla community uses, develops, spreads and supports Mozilla products, thereby promoting exclusively free software and open standards, with only minor exceptions.",
+                        "source": "wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Mozilla",
+                        "year": 2016,
+                        "title": "Mozilla",
+                        "label": "Source"
+                    }
+                ]
+            }
+        ],
+        "edges": [
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "similarity": 0.9988795534180215
+            },
+            {
+                "source": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "target": "c98269563aae1fc073b7fc0372efa1a1",
+                "similarity": 0.9988795534180215
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "bd035c011b809d406e53083cb2d19cff",
+                "similarity": 0.9981392838973554
+            },
+            {
+                "source": "bd035c011b809d406e53083cb2d19cff",
+                "target": "c98269563aae1fc073b7fc0372efa1a1",
+                "similarity": 0.9981392838973554
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "b4ee6522335b033249255b4cc1d57299",
+                "similarity": 0.9981217374646553
+            },
+            {
+                "source": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "target": "121d4d3fbc18c44af212126b99d569af",
+                "similarity": 0.9979011879711233
+            },
+            {
+                "source": "121d4d3fbc18c44af212126b99d569af",
+                "target": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "similarity": 0.9979011879711233
+            },
+            {
+                "source": "8e676f1894a0f6d94c9d031608d32dd1",
+                "target": "9a8e89c804969ed3a4df1d4ef066bc11",
+                "similarity": 0.9975938869810146
+            },
+            {
+                "source": "8e676f1894a0f6d94c9d031608d32dd1",
+                "target": "b4ee6522335b033249255b4cc1d57299",
+                "similarity": 0.9975717531208819
+            },
+            {
+                "source": "8e676f1894a0f6d94c9d031608d32dd1",
+                "target": "b3645a4d88f9378f60731ba4a10d6c63",
+                "similarity": 0.9974790929087304
+            },
+            {
+                "source": "7e04a1b0282b57a1e9b67ac098091488",
+                "target": "b4ee6522335b033249255b4cc1d57299",
+                "similarity": 0.9973793801477558
+            },
+            {
+                "source": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "target": "3f647e56fa50a926ea58411387c3f125",
+                "similarity": 0.9973657342141968
+            },
+            {
+                "source": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "target": "bd035c011b809d406e53083cb2d19cff",
+                "similarity": 0.9973039362567917
+            },
+            {
+                "source": "bd035c011b809d406e53083cb2d19cff",
+                "target": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "similarity": 0.9973039362567917
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "d38fc79040c0fb95d810cd165e946094",
+                "similarity": 0.9972814714599482
+            },
+            {
+                "source": "d38fc79040c0fb95d810cd165e946094",
+                "target": "c98269563aae1fc073b7fc0372efa1a1",
+                "similarity": 0.9972814714599482
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "121d4d3fbc18c44af212126b99d569af",
+                "similarity": 0.997271541400183
+            },
+            {
+                "source": "121d4d3fbc18c44af212126b99d569af",
+                "target": "c98269563aae1fc073b7fc0372efa1a1",
+                "similarity": 0.997271541400183
+            },
+            {
+                "source": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "target": "814b28534d6119e12fb70d00ea76cb6c",
+                "similarity": 0.9972218528111433
+            },
+            {
+                "source": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "target": "dc542c16ef6f1a9376de5fb6b26de495",
+                "similarity": 0.9971678781329292
+            },
+            {
+                "source": "dc542c16ef6f1a9376de5fb6b26de495",
+                "target": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "similarity": 0.9971678781329292
+            },
+            {
+                "source": "8e676f1894a0f6d94c9d031608d32dd1",
+                "target": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "similarity": 0.9970960368300177
+            },
+            {
+                "source": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "target": "8e676f1894a0f6d94c9d031608d32dd1",
+                "similarity": 0.9970960368300177
+            },
+            {
+                "source": "8e676f1894a0f6d94c9d031608d32dd1",
+                "target": "d83016dd56e9bf9199d175870ff56ee7",
+                "similarity": 0.9970786783875168
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "8e676f1894a0f6d94c9d031608d32dd1",
+                "similarity": 0.9970786783875168
+            },
+            {
+                "source": "603ef67d2f2e497a4c31cb3c5a8f0b3a",
+                "target": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "similarity": 0.9970422391541094
+            },
+            {
+                "source": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "target": "603ef67d2f2e497a4c31cb3c5a8f0b3a",
+                "similarity": 0.9970422391541094
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "dc542c16ef6f1a9376de5fb6b26de495",
+                "similarity": 0.9970120054308025
+            },
+            {
+                "source": "dc542c16ef6f1a9376de5fb6b26de495",
+                "target": "c98269563aae1fc073b7fc0372efa1a1",
+                "similarity": 0.9970120054308025
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "7e04a1b0282b57a1e9b67ac098091488",
+                "similarity": 0.9969463107393981
+            },
+            {
+                "source": "7e04a1b0282b57a1e9b67ac098091488",
+                "target": "d83016dd56e9bf9199d175870ff56ee7",
+                "similarity": 0.9969463107393981
+            },
+            {
+                "source": "7e04a1b0282b57a1e9b67ac098091488",
+                "target": "c98269563aae1fc073b7fc0372efa1a1",
+                "similarity": 0.9969387460916871
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "7e04a1b0282b57a1e9b67ac098091488",
+                "similarity": 0.9969387460916871
+            },
+            {
+                "source": "d38fc79040c0fb95d810cd165e946094",
+                "target": "825842a5dd514a1c51ace5ac2c73bd8b",
+                "similarity": 0.996912764392314
+            },
+            {
+                "source": "8e676f1894a0f6d94c9d031608d32dd1",
+                "target": "c98269563aae1fc073b7fc0372efa1a1",
+                "similarity": 0.9969002379995565
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "8e676f1894a0f6d94c9d031608d32dd1",
+                "similarity": 0.9969002379995565
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "similarity": 0.9968080071232758
+            },
+            {
+                "source": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "target": "c98269563aae1fc073b7fc0372efa1a1",
+                "similarity": 0.9968080071232758
+            },
+            {
+                "source": "7e04a1b0282b57a1e9b67ac098091488",
+                "target": "8365ed646900defff0558cf32421c82a",
+                "similarity": 0.9967938812500079
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "c98269563aae1fc073b7fc0372efa1a1",
+                "similarity": 0.9967642283177971
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "d83016dd56e9bf9199d175870ff56ee7",
+                "similarity": 0.9967642283177971
+            },
+            {
+                "source": "8e676f1894a0f6d94c9d031608d32dd1",
+                "target": "7e04a1b0282b57a1e9b67ac098091488",
+                "similarity": 0.9966839538765154
+            },
+            {
+                "source": "7e04a1b0282b57a1e9b67ac098091488",
+                "target": "8e676f1894a0f6d94c9d031608d32dd1",
+                "similarity": 0.9966839538765154
+            },
+            {
+                "source": "bd035c011b809d406e53083cb2d19cff",
+                "target": "f1a166bb8346b98d4a3e5b5feaa0a75d",
+                "similarity": 0.9966687907941584
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "b3645a4d88f9378f60731ba4a10d6c63",
+                "similarity": 0.996665963571348
+            },
+            {
+                "source": "603ef67d2f2e497a4c31cb3c5a8f0b3a",
+                "target": "c98269563aae1fc073b7fc0372efa1a1",
+                "similarity": 0.9966580359283173
+            },
+            {
+                "source": "c98269563aae1fc073b7fc0372efa1a1",
+                "target": "603ef67d2f2e497a4c31cb3c5a8f0b3a",
+                "similarity": 0.9966580359283173
+            },
+            {
+                "source": "8e676f1894a0f6d94c9d031608d32dd1",
+                "target": "f75cef1373a65cd009d710b07b7080f6",
+                "similarity": 0.9966533628877241
+            },
+            {
+                "source": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "target": "8e676f1894a0f6d94c9d031608d32dd1",
+                "similarity": 0.9966426364281574
+            },
+            {
+                "source": "8e676f1894a0f6d94c9d031608d32dd1",
+                "target": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "similarity": 0.9966426364281574
+            },
+            {
+                "source": "dc542c16ef6f1a9376de5fb6b26de495",
+                "target": "121d4d3fbc18c44af212126b99d569af",
+                "similarity": 0.9966255650337409
+            },
+            {
+                "source": "121d4d3fbc18c44af212126b99d569af",
+                "target": "dc542c16ef6f1a9376de5fb6b26de495",
+                "similarity": 0.9966255650337409
+            },
+            {
+                "source": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "target": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "similarity": 0.996543874741465
+            },
+            {
+                "source": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "target": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "similarity": 0.996543874741465
+            },
+            {
+                "source": "8e676f1894a0f6d94c9d031608d32dd1",
+                "target": "4d359c0ec388fc213700cb95576d5ed6",
+                "similarity": 0.9965247627555023
+            },
+            {
+                "source": "d38fc79040c0fb95d810cd165e946094",
+                "target": "8e676f1894a0f6d94c9d031608d32dd1",
+                "similarity": 0.9964895944112213
+            },
+            {
+                "source": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "target": "4e07df5d2a1d03417385c94115300f3e",
+                "similarity": 0.9964579349945684
+            },
+            {
+                "source": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "target": "b4ee6522335b033249255b4cc1d57299",
+                "similarity": 0.9964265644492237
+            },
+            {
+                "source": "d38fc79040c0fb95d810cd165e946094",
+                "target": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "similarity": 0.9963890413771997
+            },
+            {
+                "source": "d38fc79040c0fb95d810cd165e946094",
+                "target": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "similarity": 0.9963040417964749
+            },
+            {
+                "source": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "target": "d38fc79040c0fb95d810cd165e946094",
+                "similarity": 0.9963040417964749
+            },
+            {
+                "source": "7e04a1b0282b57a1e9b67ac098091488",
+                "target": "f75cef1373a65cd009d710b07b7080f6",
+                "similarity": 0.9962681595681234
+            },
+            {
+                "source": "dc542c16ef6f1a9376de5fb6b26de495",
+                "target": "814b28534d6119e12fb70d00ea76cb6c",
+                "similarity": 0.9962489441153001
+            },
+            {
+                "source": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "target": "814b28534d6119e12fb70d00ea76cb6c",
+                "similarity": 0.9960810614431035
+            },
+            {
+                "source": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "target": "dc542c16ef6f1a9376de5fb6b26de495",
+                "similarity": 0.9960319353186642
+            },
+            {
+                "source": "dc542c16ef6f1a9376de5fb6b26de495",
+                "target": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "similarity": 0.9960319353186642
+            },
+            {
+                "source": "121d4d3fbc18c44af212126b99d569af",
+                "target": "3f647e56fa50a926ea58411387c3f125",
+                "similarity": 0.9959995786349407
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "f65122e6f32c2bcabdd432788ea598df",
+                "similarity": 0.9959887846703744
+            },
+            {
+                "source": "7e04a1b0282b57a1e9b67ac098091488",
+                "target": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "similarity": 0.9959205971141328
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "similarity": 0.9958675501511065
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "4912f57186d34a2d82be739faa2d4727",
+                "similarity": 0.9958395826340293
+            },
+            {
+                "source": "bd035c011b809d406e53083cb2d19cff",
+                "target": "04a1393223042f28e1d9c15e1b87e459",
+                "similarity": 0.9958154260331102
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "4b872d5e0f673d0259b22e6d6735672c",
+                "similarity": 0.9958145864605572
+            },
+            {
+                "source": "7e04a1b0282b57a1e9b67ac098091488",
+                "target": "6d26d76bd5d2a67e16e6af81c58eb359",
+                "similarity": 0.9957774047001656
+            },
+            {
+                "source": "d38fc79040c0fb95d810cd165e946094",
+                "target": "814b28534d6119e12fb70d00ea76cb6c",
+                "similarity": 0.9957679098441442
+            },
+            {
+                "source": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "target": "b3645a4d88f9378f60731ba4a10d6c63",
+                "similarity": 0.9957443975954713
+            },
+            {
+                "source": "bd035c011b809d406e53083cb2d19cff",
+                "target": "76d5733b82b9b85e7c7c9538c8b1cbf3",
+                "similarity": 0.995721740365595
+            },
+            {
+                "source": "dc542c16ef6f1a9376de5fb6b26de495",
+                "target": "d38fc79040c0fb95d810cd165e946094",
+                "similarity": 0.9957175858644631
+            },
+            {
+                "source": "d38fc79040c0fb95d810cd165e946094",
+                "target": "dc542c16ef6f1a9376de5fb6b26de495",
+                "similarity": 0.9957175858644631
+            },
+            {
+                "source": "d83016dd56e9bf9199d175870ff56ee7",
+                "target": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "similarity": 0.9957083516854499
+            },
+            {
+                "source": "121d4d3fbc18c44af212126b99d569af",
+                "target": "814b28534d6119e12fb70d00ea76cb6c",
+                "similarity": 0.9955958955681652
+            },
+            {
+                "source": "121d4d3fbc18c44af212126b99d569af",
+                "target": "d38fc79040c0fb95d810cd165e946094",
+                "similarity": 0.9954468236833367
+            },
+            {
+                "source": "d38fc79040c0fb95d810cd165e946094",
+                "target": "121d4d3fbc18c44af212126b99d569af",
+                "similarity": 0.9954468236833367
+            },
+            {
+                "source": "bd035c011b809d406e53083cb2d19cff",
+                "target": "f75cef1373a65cd009d710b07b7080f6",
+                "similarity": 0.9954394068523413
+            },
+            {
+                "source": "d38fc79040c0fb95d810cd165e946094",
+                "target": "b3645a4d88f9378f60731ba4a10d6c63",
+                "similarity": 0.9954191705712648
+            },
+            {
+                "source": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "target": "121d4d3fbc18c44af212126b99d569af",
+                "similarity": 0.9953296281381194
+            },
+            {
+                "source": "121d4d3fbc18c44af212126b99d569af",
+                "target": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "similarity": 0.9953296281381194
+            },
+            {
+                "source": "bd035c011b809d406e53083cb2d19cff",
+                "target": "b4ee6522335b033249255b4cc1d57299",
+                "similarity": 0.9953115436893216
+            },
+            {
+                "source": "d38fc79040c0fb95d810cd165e946094",
+                "target": "d83016dd56e9bf9199d175870ff56ee7",
+                "similarity": 0.9953020338736255
+            },
+            {
+                "source": "7e04a1b0282b57a1e9b67ac098091488",
+                "target": "b3645a4d88f9378f60731ba4a10d6c63",
+                "similarity": 0.9952519651466897
+            },
+            {
+                "source": "bd035c011b809d406e53083cb2d19cff",
+                "target": "814b28534d6119e12fb70d00ea76cb6c",
+                "similarity": 0.9952439000474945
+            },
+            {
+                "source": "121d4d3fbc18c44af212126b99d569af",
+                "target": "8e676f1894a0f6d94c9d031608d32dd1",
+                "similarity": 0.9952360823584798
+            },
+            {
+                "source": "bd035c011b809d406e53083cb2d19cff",
+                "target": "8e676f1894a0f6d94c9d031608d32dd1",
+                "similarity": 0.9952304899560225
+            },
+            {
+                "source": "dc542c16ef6f1a9376de5fb6b26de495",
+                "target": "8e676f1894a0f6d94c9d031608d32dd1",
+                "similarity": 0.9950973029180654
+            },
+            {
+                "source": "dc542c16ef6f1a9376de5fb6b26de495",
+                "target": "b3645a4d88f9378f60731ba4a10d6c63",
+                "similarity": 0.9949982486165347
+            },
+            {
+                "source": "bd035c011b809d406e53083cb2d19cff",
+                "target": "4e07df5d2a1d03417385c94115300f3e",
+                "similarity": 0.9948959790691387
+            },
+            {
+                "source": "121d4d3fbc18c44af212126b99d569af",
+                "target": "4e07df5d2a1d03417385c94115300f3e",
+                "similarity": 0.9948516647074448
+            },
+            {
+                "source": "7e04a1b0282b57a1e9b67ac098091488",
+                "target": "ebd33e6c30a99fe9a58d49b9b95957cb",
+                "similarity": 0.9947058558442304
+            },
+            {
+                "source": "121d4d3fbc18c44af212126b99d569af",
+                "target": "b3645a4d88f9378f60731ba4a10d6c63",
+                "similarity": 0.9946701113431968
+            },
+            {
+                "source": "dc542c16ef6f1a9376de5fb6b26de495",
+                "target": "4e07df5d2a1d03417385c94115300f3e",
+                "similarity": 0.994640846227168
+            },
+            {
+                "source": "dc542c16ef6f1a9376de5fb6b26de495",
+                "target": "2076f88f3db174a896ce5d9d36248b3c",
+                "similarity": 0.9946121792976613
+            },
+            {
+                "source": "603ef67d2f2e497a4c31cb3c5a8f0b3a",
+                "target": "d38fc79040c0fb95d810cd165e946094",
+                "similarity": 0.9941795770754438
+            },
+            {
+                "source": "4c2c4f5f5736fb3f96a3cb33e31c1393",
+                "target": "d83016dd56e9bf9199d175870ff56ee7",
+                "similarity": 0.9940402792434672
+            },
+            {
+                "source": "603ef67d2f2e497a4c31cb3c5a8f0b3a",
+                "target": "121d4d3fbc18c44af212126b99d569af",
+                "similarity": 0.9939238337006736
+            },
+            {
+                "source": "603ef67d2f2e497a4c31cb3c5a8f0b3a",
+                "target": "3f647e56fa50a926ea58411387c3f125",
+                "similarity": 0.9938117526484858
+            },
+            {
+                "source": "603ef67d2f2e497a4c31cb3c5a8f0b3a",
+                "target": "814b28534d6119e12fb70d00ea76cb6c",
+                "similarity": 0.9925087106831721
+            },
+            {
+                "source": "603ef67d2f2e497a4c31cb3c5a8f0b3a",
+                "target": "0f80b7ca2ad6ffce66c58e2a2ffbc04e",
+                "similarity": 0.992304417049265
+            },
+            {
+                "source": "603ef67d2f2e497a4c31cb3c5a8f0b3a",
+                "target": "eca75221f3e48cf49ff1dcae3af267ed",
+                "similarity": 0.9918530109934535
+            },
+            {
+                "source": "603ef67d2f2e497a4c31cb3c5a8f0b3a",
+                "target": "bd035c011b809d406e53083cb2d19cff",
+                "similarity": 0.9912045906218061
+            },
+            {
+                "source": "603ef67d2f2e497a4c31cb3c5a8f0b3a",
+                "target": "f8ce4015e1958fc68f6983b4e094cd62",
+                "similarity": 0.9911107296002859
+            }
+        ],
+        "centroids": [
+            "c98269563aae1fc073b7fc0372efa1a1"
+        ]
+    },
+    "message": "OK",
+    "status": 200
+}
