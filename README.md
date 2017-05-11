@@ -1,3 +1,3 @@
-A force graph.
+> A variety of data visualizations.
 
 Run with `npm start`.

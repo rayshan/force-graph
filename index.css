@@ -24,6 +24,30 @@ body {
     position: relative;
 }
 
+#activity-indicator {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    width: 100%;
+    height: 2.5rem;
+    background: rgba(0, 0, 0, 0.1);
+    font-size: 1.5rem;
+    display: flex;
+    font-weight: normal;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 100ms;
+}
+
+#graph-browser {
+    display: flex;
+    flex-direction: column;
+    font-size: 5rem;
+}
+
 .graph {
     border: 1px solid lightgray;
     width: 90vw;
@@ -53,36 +77,6 @@ body {
     opacity: 0 !important;
 }
 
-text {
-    cursor: default;
-    font-size: 0.85rem;
-}
-
-.links line {
-    stroke: black;
-    stroke-opacity: 0.1;
-}
-
-.nodes circle {
-    fill: gray;
-    stroke: white;
-    stroke-width: 3;
-}
-
-.primary-concept circle {
-    fill: black;
-    stroke: white;
-    stroke-width: 5;
-}
-
-.foci circle {
-    fill: #2196F3;
-}
-
-.primary-concept text {
-    font-weight: bold;
-}
-
 #graph-controls {
     position: fixed;
     right: 3rem;
@@ -97,26 +91,81 @@ text {
 }
 
 #graph-controls .select-control {
-    width: 20rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-#activity-indicator {
-    position: fixed;
-    top: 0;
+#graph-controls .select-control label {
+    margin-right: 1rem;
+}
+
+/* ================== */
+
+#graph text {
+    cursor: default;
+    font-size: 0.85rem;
+}
+
+#graph .links line {
+    stroke: black;
+    stroke-opacity: 0.1;
+}
+
+#graph .nodes circle {
+    fill: gray;
+    stroke: white;
+    stroke-width: 3;
+}
+
+#graph .primary-concept circle {
+    fill: black;
+    stroke: white;
+    stroke-width: 5;
+}
+
+#graph .foci circle {
+    fill: #2196F3;
+}
+
+#graph .primary-concept text {
+    font-weight: bold;
+}
+
+/* Tree Graph =============================================================== */
+
+#tree-graph .node circle {
+    fill: #999;
+}
+
+#tree-graph .node.internal circle {
+    fill: black;
+    stroke: white;
+    stroke-width: 3;
+}
+
+#tree-graph .node.internal text {
+    text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+}
+
+#tree-graph .link {
+    fill: none;
+    stroke: #555;
+    stroke-opacity: 0.4;
+    stroke-width: 1px;
+}
+
+#tree-graph #input-screenshot {
+    width: 70vw;
+    height: 70vh;
+    position: absolute;
     left: 0;
     right: 0;
-    margin: 0;
-    width: 100%;
-    height: 2.5rem;
-    background: rgba(0, 0, 0, 0.1);
-    font-size: 1.5rem;
-    display: flex;
-    font-weight: normal;
-    align-items: center;
-    justify-content: center;
-    opacity: 0;
-    transition: opacity 100ms;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: contain;
+    display: none;
 }

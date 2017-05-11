@@ -5,40 +5,10 @@
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
-    <svg id="graph" class="graph"></svg>
 
-    <aside id="graph-controls">
-        <button id="label-display-toggle">Toggle label display</button>
-        <button id="foci-display-toggle">Toggle foci display</button>
-        <button id="3d-toggle">Toggle faux-3d display</button>
+<div id="graph-browser">
+    <a href="graph.html">Graph</a>
+    <a href="tree.html">Tree</a>
+</div>
 
-        <div class="select-control">
-            <label for="primary-concept-count">Number of primary concepts</label>
-            <select id="primary-concept-count">
-                <option value=1>1</option>
-                <option value=2>2</option>
-                <option value=3>3</option>
-                <option value=4>4</option>
-                <option value=5>5</option>
-                <option value=6>6</option>
-                <option value=7>7</option>
-                <option value=8 selected>8</option>
-            </select>
-        </div>
-        <div class="select-control">
-            <label for="secondary-concept-count">Number of secondary concepts per primary concept</label>
-            <select id="secondary-concept-count">
-                <option value="5">5</option>
-                <option value="10" selected>10</option>
-                <option value="25">25</option>
-                <option value="50">50</option>
-                <option value="100">100</option>
-            </select>
-        </div>
-    </aside>
-
-    <div id="activity-indicator"></div>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.4.3/d3.min.js"></script>
-    <script src="index.js"></script>
 </body>

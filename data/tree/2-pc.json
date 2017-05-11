@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "cache_disabled": false,
+  "tree": {
+    "parent": null,
+    "cId": "0cdd3ec3701bb6cbed75fda61aec3084",
+    "parentCId": null,
+    "name": "Red wine",
+    "children": [
+      {
+        "cId": "407d70b903dc8e4f8ca9bd19e78f049f",
+        "parentCId": "0cdd3ec3701bb6cbed75fda61aec3084",
+        "parent": "Red wine",
+        "name": "Rosé"
+      }
+    ]
+  },
+  "uuid": "e8ded8f8-35e8-11e7-94df-0af776586705"
+}

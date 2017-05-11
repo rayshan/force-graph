@@ -1,0 +1,69 @@
+{
+  "status": "ok",
+  "cache_disabled": false,
+  "tree": {
+    "parent": null,
+    "cId": "407d70b903dc8e4f8ca9bd19e78f049f",
+    "parentCId": null,
+    "name": "Rosé",
+    "children": [
+      {
+        "parent": "Rosé",
+        "cId": "84772dba59e92881ec5be54c0ea558a9",
+        "parentCId": "407d70b903dc8e4f8ca9bd19e78f049f",
+        "name": "Côtes du Rhône AOC",
+        "children": [
+          {
+            "cId": "8145b23bd77456648aadb0420ccb6a1d",
+            "parentCId": "84772dba59e92881ec5be54c0ea558a9",
+            "parent": "Côtes du Rhône AOC",
+            "name": "Chardonnay"
+          },
+          {
+            "cId": "74ed1b394c40001c9af04f8cef738175",
+            "parentCId": "84772dba59e92881ec5be54c0ea558a9",
+            "parent": "Côtes du Rhône AOC",
+            "name": "South African wine"
+          },
+          {
+            "cId": "03113aae3a3ba6ed96f477be2645593d",
+            "parentCId": "84772dba59e92881ec5be54c0ea558a9",
+            "parent": "Côtes du Rhône AOC",
+            "name": "White wine"
+          },
+          {
+            "cId": "268891803925b8e8f7d81826d28e958f",
+            "parentCId": "84772dba59e92881ec5be54c0ea558a9",
+            "parent": "Côtes du Rhône AOC",
+            "name": "Washington wine"
+          },
+          {
+            "cId": "54be345330259eb29a0fc9d06b71fd2f",
+            "parentCId": "84772dba59e92881ec5be54c0ea558a9",
+            "parent": "Côtes du Rhône AOC",
+            "name": "Chenin blanc"
+          },
+          {
+            "cId": "d3ee66d13f9527b80556260dbdcf5b35",
+            "parentCId": "84772dba59e92881ec5be54c0ea558a9",
+            "parent": "Côtes du Rhône AOC",
+            "name": "Anjou wine"
+          },
+          {
+            "cId": "0b7afe69b1b8db4f88dd52320505c1a5",
+            "parentCId": "84772dba59e92881ec5be54c0ea558a9",
+            "parent": "Côtes du Rhône AOC",
+            "name": "Friuli-Venezia Giulia wine"
+          },
+          {
+            "cId": "76c69475b712604355f1a2197f81a940",
+            "parentCId": "84772dba59e92881ec5be54c0ea558a9",
+            "parent": "Côtes du Rhône AOC",
+            "name": "Italian wine"
+          }
+        ]
+      }
+    ]
+  },
+  "uuid": "ab9fa314-35e8-11e7-94df-0af776586705"
+}

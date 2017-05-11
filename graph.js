@@ -3,7 +3,7 @@ const width = window.innerWidth * 0.9,
     // edgeSimilarityThreshold = 0.995,
     cachedSecondaryConceptCount = 10,
     linkDistance = 75,
-    primaryConceptCids = [
+    primaryConceptCIds = [
         "ee620923ff5fc510555dc37083a135ee", // JavaScript
         "6d85b2d399967a027efc0d611a548da5", // ECMAScript
         "c98269563aae1fc073b7fc0372efa1a1", // Netscape
@@ -14,14 +14,14 @@ const width = window.innerWidth * 0.9,
         "215865868473ecf27745ea7e0f56ed04", // Barack Obama
     ];
 
-class Graph {
+class ForceDirectedGraph {
     constructor() {
         this.nodeData = [];
         this.edgeData = [];
         this.primaryConcepts = [];
         this.isPresentingLabels = false;
         this.isPresentingFoci = false;
-        this.root = d3.select("#graph");
+        this.root = d3.select("#graph-root");
     }
 
     initWith(rawData) {
@@ -75,13 +75,13 @@ class Graph {
         console.log(primaryConceptCount, rawNodeData.length, rawEdgeData.length);
 
         const nodeMapping = {},
-            vertexCoordinates = Graph.polygonVertexCoordinatesFrom(
+            vertexCoordinates = ForceDirectedGraph.polygonVertexCoordinatesFrom(
                 width / 2,
                 height / 2,
                 height / 3,
                 primaryConceptCount
             ),
-            focusCoordinates = Graph.polygonVertexCoordinatesFrom(
+            focusCoordinates = ForceDirectedGraph.polygonVertexCoordinatesFrom(
                 width / 2,
                 height / 2,
                 height / 3 + linkDistance + 20, // position outside of polygon
@@ -123,8 +123,8 @@ class Graph {
     }
 
     /**
-     * GIVEN x and y (the center coordinates), the radius and the number of polygon sides returns an
-     * array of vertex coordinates
+     * Given x and y (the center coordinates), the radius and the number of
+     * polygon sides returns an array of vertex coordinates
      * @param x
      * @param y
      * @param radius
@@ -354,13 +354,13 @@ function fetchDataFor(primaryConceptCount, secondaryConceptCount) {
     activityIndicator.innerHTML = "Fetching data...";
     activityIndicator.style.opacity = 1;
 
-    const fetchCachedData = primaryConceptCount === primaryConceptCids.length &&
+    const fetchCachedData = primaryConceptCount === primaryConceptCIds.length &&
         secondaryConceptCount === cachedSecondaryConceptCount;
     const dataUris = fetchCachedData ?
-        primaryConceptCids.map(function (cid) {
-            return `data/${cid}.json`;
+        primaryConceptCIds.map(function (cid) {
+            return `data/graph/${cid}.json`;
         }) :
-        primaryConceptCids.map(function (cid) {
+        primaryConceptCIds.map(function (cid) {
             return `https://api.yewno.com/concepts/${cid}?format=adjacency-list&edges=${secondaryConceptCount}`;
         });
 
@@ -381,8 +381,8 @@ function fetchDataFor(primaryConceptCount, secondaryConceptCount) {
         });
 }
 
-const graph = new Graph();
-fetchDataFor(primaryConceptCids.length, 10)
+const graph = new ForceDirectedGraph();
+fetchDataFor(primaryConceptCIds.length, 10)
     .then(function (rawData) {
         graph.initWith(rawData);
     })

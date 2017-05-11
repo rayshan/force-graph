@@ -1,6 +1,6 @@
 {
-  "name": "force-graph",
-  "version": "1.0.0",
+  "name": "graphs",
+  "version": "2.0.0",
   "description": "",
   "main": "index.html",
   "scripts": {
